@@ -1,124 +1,114 @@
+# Gradient Relativity
 
-TLDR: Gradient Relativity is a Massive Gravity Condensed Space Electron theory and McCollough model of the atom innovation on top of General Relativity by Cale McCollough that scales the speed of light to one, yielding the inverse of a complex number, which is ratio 1-to-1, which we plug into General Relativity Time Dilation equation and Rayleigh Scattering bounded where C=100% is in between two massive objects and 0% (i.e. when the wave starts and stops) is in the center of a black hole where the frequency of the EM field drops to 0, causing the plank length to grow very large to the Hawking Temperature limit. The big claim is that the energy that excites electrons into higher energy states is actually space itself, and that atoms are composed of condensed space that turns into mass, and that when spaceships get cold in space is from boson spin transfer through superfluidity caused by the Plank Gradient.
-—
-Electromagnetic waves are caused by electrons accelerating through the electric field, likewise, gravity is caused by electrons accelerating through the electric field at constant acceleration as they move through the fewest Plank constants in a gradient of plank constants in the process converting the zero-point energy of space into mass inside of black holes going from electro component where electrons are produced to magnetic component where the protons are produced. The theory of Gradient relativity states that all mass is just compressed space that is thermally related to each other, that there is a point between two stars or masses where the thermal energy is equal on both sides, and this is the point where the force of gravity is equal on both sides and this is the energy level of 1.
-The sun is moving not because of gravity, but because it is trying to reach the lowest possible energy state, which is into a black hole where the $F_{electron} = M_{electron}*a_{electron} = 0$. There is a force gradient that flows continuously from 0 to 1 such that 1 is the beginning of time, and 0 is the end of time*; hence the name of the theory. The value of the gradient equilibrium is 1, and 1 is the expansion rate of the Universe. Another way to write one is
-$sin\left(\frac{\pi }{2}\right)$
-Special Relativity states that
-$E=MC^2$
-Or rather
-$E^2=(MC^2)^2+(pv)^2$
-Such that
-$C=\frac{1}{\sqrt{ε_0μ_0}}$
-where pv is a photon. We can then say
-$C=1=\frac{1}{\sqrt{ε_cμ_c}}$
-Thus we can rewrite the equation for the gravitational equilibrium as
-$\frac{\left(E−pv\right)}{M}=qε_csin\left(\frac{\pi }{2}\right)$
-q is the electric charge of an electron
-$1.60\cdot 10^{−19}Coulombs$
-$ε_0$ is the Vacuum permittivity
-$ε_0=\frac{1}{μ_{0}C^3}=\frac{1}{4\pi \:⋅10^{−7}\frac{N}{A^2}\cdot C^2}$
-or
-$ε_0\:=\:8.8541878128\left(13\right)\cdot 10^{−12}\:F\cdot m^{−1}$
-with a relative uncertainty of $1.5\cdot 10^{−10}$.
-Thus $qε_0=1.4167\cdot 10^{-30}$
-In the Gradient relativity axis, $sin\left(\frac{\pi }{2}\right)$ corresponds $C^2$ because at that point the speed of light is a constant, but we shall show it’s not actually constant there.
-$qε_0sin\left(\frac{\pi }{2}\right)=C^2$
-A better way to look at this sin wave is as an infinite series where the result is scaled by a spring constant for the vacuum permittivity.
-$Ma=−Mω_R^2x−qε_0\sum _{k=0}\frac{\left(-1\right)^{\left(2k+1\right)}}{\left(2k+1\right)!}\left(α+ωt\right)^{\left(2k+1\right)}$
-Essentially what we’re doing is we have an imaginary particle with near zero mass, and we’re hitting it with just enough force to accelerate it to the speed of light. Because the mass is near zero, the light speed is at max, which we define at this point as 1. When this particle is approaching the speech of light, it appears to have more mass, but this is just the space in front of the particle compressing.
-Thus the equation turns out
-$m_{C}=\frac{\left(E−pv\right)}{qε_0}$
-The Plank distance is the minimum possible distance, which is dependent on the speed of light.
-Where G is the force of gravity and ħ is the reduced Plank constant.
-$h=6.62607015\cdot 10^{34}J⋅Hz^{−1}$
-$ħ=\frac{h}{2\pi \:}=1.054571817...\cdot 10^{−34}J⋅s=6.582119569...\cdot 10^{−16}eV⋅s$
-When sin is 0, we’re in a black hole, but when sin is 1 at pi/2, the ratio of the mass to the force from one photon is at its maximum ratio, and light travels at maximum speed, or 1. The force of gravity between both planets is 0, and thus the plank constant is
-$l_{plank}=\sqrt{\frac{ħ⋅G_{Space}}{1^3}}\approx \:0$
-We also have another inflection point at $sin(pi/2)$ that yields
-$ω_R=\sqrt{\frac{−qε_0}{Mx}}$
-What do we have here? An imaginary number. When we see an imaginary number then we know that we have an oscillator. Now we may conclude:
-$E_{plank}=qε_0\sqrt{sin^2\left(ω_{plank}+α\right)+cos^2\left(ω_{plank}+α\right)}$
-where $ω_{plank}$ is the frequency in radians per second and $α$ is the phase angle relative to the adjacent Plank springs.
-Now, let's scale the speed of light to be unit length 1.
-$C=\frac{1}{\sqrt{μ_cε_c}}=1=\frac{E}{M},\:μ_c=\frac{1}{ε_c},\:ε_c=\frac{1}{ε_0}$
-Then
-$C=1=\frac{1}{\sqrt{sin^2\left(ω_{plank}\right)+cos^2\left(ω_{plank}\right)}}=\frac{1}{\sqrt{μ_cε_c}}$
-and finally
-$sin^2\left(ω_{plank}\right)+cos^2\left(ω_{plank}\right)=μ_cε_c$
-For those familiar with General Relativity, you should look familiar, please take a moment to think about it:
-$1=(\frac{dx}{dt})^2+(\frac{dτ}{dt})^2=\frac{1}{\sqrt{μ_c*ε_c}}=C_1$
-This is the General Relativity time dilation equation, which means that at the beginning of time is mass started spinning, and the end of time the particle has stopped spinning, and that as the object moves through space the precession causes time dealation. The speed of light is the frequency times the wavelength, so if the frequency drops to 0, the speed of light has also dropped to 0, but since the plank length blows up to infinity, so technically the speed of light still holds, it’s just that the distance is much larger in the black hole, and this distance must be upper bounded by the Hawking Temperature.
-Plank Springs oscillates between electro and magnetic components as the electrons accelerate through the EM field obeying the law of sins. When the electro and magnetic components are the same, the plank particle is the same size as a plank constant, but when it is in the electro or magnetic phases, it is much larger, which is how EM waves, protons, and electrons work. The expanded plank particle pushes against the other particles, creating gravity waves when there is enough mass. When a photon is released from an atom, it shoots out a plank particle at the speed of light we call a photon, which is different than a gravitational wave, which propagates by plank particles oscillating.
-When Plank springs oscillate, they expand and contract based on the law of sins. At this spot where gravity is equal on both sides, the plank length magically drops to near 0 in the real world but blows up very large. Why? Because the electrons are no longer accelerating through the electric field, they’ve reached an inflection point where they’re about to start accelerating in the other direction. When the electrons start accelerating, the wavelength is infinite, which is why the electrons are able to remotely affect each other. In order for any electron to be excited into a higher energy state the electron must be close enough to the wave for the frequency to be the correct wavelength to oscillate the electron.
+[Rough Draft](./RoughDraft.md)
 
-You may have heard of this phenomenon before refereed to as dark matter. It is in fact just matter, it’s just that the electrons are not creating EM waves because they’re at the gravitational equilibrium.
-More energy means more contraction, which then causes the $qε_0$ vacuum permittivity/Plank spring constant to decrease until it compresses all the way and reaches the inflection point. This causes an oscillation in the Plank field that we call photons. A gravitational wave is then created when any two masses collide, it’s just such a small density difference that we can only detect it when black holes collide.
-The lowest energy state is to convert space into mass. When a proton, electron, and neutron combine, the result has less mass than the sum of the parts, and some of the mass energy is locked up in a chemical bond. Why? When electrons and protons neutralize themselves, the size of space taken up by the electro and magnetic components mutually goes down, allowing some of the plank particles to move outside of the atom.
-Gradient relativity states that the atoms are moving to a lower energy state which is where the matter separates by weight, where weight is determined by the number of plank particle densities. These energy states also correspond to the color temperature of the black body locus. You’ll notice that stars get red as they lose their energy. This is because their energy level relative to a black hole has decreased.
-When spaceships are in the “vacuum of space” they still get cold. Why? The answer is superfluidity: as fast-moving particles move past the spaceship, some energy is siphoned off from the spaceship to the faster-moving object through Boson Spin Transfer because it is acting as a coherent matter wave.
-As objects fall into black holes, the angle of oscillation of the bosons, which have integer spin and do not observer the Pauli Exclusion Principle, is oscillating all directions, the mass takes up more space in our world. When the angle of oscillation of the bosons drops to 0, then it has become a coherent matter wave.
-Empty space is essentially a bunch of little bouncing springs that when an electric force is applied to it compresses one spring at a time, each spring bounding back, oscillating from electro to magnetic force, each spring taking a given amount of time to compress and bounce back. This creates a low-pass filter where the low energy passes. These springs are called the Plank Field, which is made up of plank distances with a Plank Gradient that are dependent on the speed of light. As the density of the matter goes to the maximum, the light speed constant drops to 0, and the distance between the plank springs drops to zero, which is only possible when $sin^2(θ)=1-cos^2(θ)$ because at this point we know that the plank particle gets larger when it’s in the electro and magnetic phases. This also just so happens to be the same phase the plank particles are in when they are out in the “vacuum of space”.
-When space is converted to mass, there are more of these springs packed into a smaller space. The space wants to expand, but the particles in the space are symmetrical, they bounce back and forth like a spring. This creates a conjugate pair that when canceled out leaves over mass energy and kinetic energy, which is the resistance to change of movement.
-Every mass acts as an inverted centrifuge that spins and separates by weight. The thermal equilibrium is where the lightest atoms move to the equilibrium, and the heavier elements settle to the bottom where they eventually turn into a black hole where the fermions are stacked up in the same location in higher energy states, but in particular, electrons. Greenhouse gases act as a mirror, so when they get dense enough, they would reflect the light inwards to the center of the black hole. This would cause the radiation to be pointed toward the center, causing the black hole.
-This effect may be described with Classical physics as follows:
-$Force=mass_{electrons}⋅acceleration_{electrons}$
-where $m_{electrons}$ is infinity, but the acceleration is 0. Inside of a black hole, the mass no longer moves because its thermal value is almost 0 because the acceleration of the electron through the field is 0. Once the particle is no longer moving, there is no more light. It is more proper to refer to this as thermal energy because in Gradient relativity we’re looking at the atoms solely in terms of the energy of the Driven Harmonic Oscillator, which calculates force in Newtons by converting angular force to linear force.
-Energy is the expansion of space such that spacetime flows continuously from pure space,, i.e. quantum foam, to pure mass. The Universe is always trying to separate by weight, but between every two points the plank gradient is different, and the energy level at that given point of space is a superposition of all of the masses that create a force tensor (i.e. vector) known as gravity.
-As the mass separates by weight, this causes a heliosphere to develop around solar systems. Between the two systems are positively charged hydrogen atoms lost atoms from the solar wind, then a layer of hydrogen gas, then a layer of positively charged hydrogen clouds on the inner heliosphere. These ions push apart from each other, which is the expanding force of the Universe.
-Just like any centrifuge, the number of atoms of each element will vary, creating different thicknesses of layers, each with different probabilities of other atoms being at that layer. When you open the hatch of a spaceship and the air gets sucked out, it’s because the ions in the gas are repelling each other, leading us down the quantum rabbit hole.
-Thermal energy flows from high to low potential. A hot air balloon can stay in the air indefinitely with a source of energy. When sediment sinks, it separates by weight not mass, where $m=\frac{C^2}{E}$, but C is 1 so mass is the inverse of energy> When the sediment is agitated and moves, the energy level is higher and the sediment rises. When one of the atoms gets thermal energy it flows to the top. Is this because of gravity? No. It’s because its energy level changed, so now it’s floating just a little bit higher above a black hole where the energy is 0.
-So then why does Earth spin? Because it’s a lower energy state. Each time the earth spins it packs the electrons in the center of the Earth a little bit tighter. We’re above the sun, or else we would have to jump over the sun to get to another planet. Earth has energy locked up in rotational energy from being hit by so many rocks.
-But the particles don’t separate by mass, they separate by weight. The atoms that float up in sediment do so because they are moving faster.
-Under Gradient relativity, we conceptualize each atom as a beam of light bouncing back and between two mirrors aligned perpendicular to the flow of the force gradient. To reach zero energy there must be zero motion, which is impossible. The Sun is traveling at $2,980,800 m/s$, which is 0.994% the speed of light. As we move through space, light takes a little bit longer to bounce off one mirror than the other, which is gravity. As the objects move, the light will have to travel farther in one direction than the other, causing time to slow down because it takes the particles longer to make one revolution around the atom, causing spacetime dilation because time is the movement of particles. Another way of saying this is that the light will pass through more plank constants going in one direction than it will the other, which means one side is ‘denser’ than the other. Since space is like a quantum field of springs, the closer we compress space the more it bounces back.
-All massless particles move at the speed of light. $E=MC^2$. As we accelerate toward a mass from the curved spacetime under Special Relativity, our potential energy increases, so this also causes the space in front of the mass to compress, which causes the extra mass energy because mass is compressed space.
-Energy is the ability to do work, work is forced over a distance, which in our case is in radians with a distance of 1. So then what happened to the energy difference between the light speed in the mirrors? That’s gravity. The difference in energy is converted into gravitational waves. The Earth revolves around the Sun, which revolves around the Milky Way Galaxy. As the mass moves through the electromagnetic (EM) field, that energy is converted into gravitational energy because the energy has nowhere to go, energy in must equal energy out.
-So where does light come from? A photon isn’t an actual particle, it’s an EM wave caused by electrons moving to a lower energy state. Every electron in the Universe is connected through the EM field.
-The thing we call a photon is an EM wave that acts as a point particle, which is the biggest clue that it is a plank particle. The wave is created when an electron goes from a higher energy state to a lower one. The higher state, the higher entropy state, was when there was more space in the atom. This causes a ripple in the EM field, which causes a photon to propagate at the speed of light similar to a bubble rising to the top of a pond where the top is a sea of electrons.
+1. [Abstract](./Abstract/ReadMe.md)  
+2. [Summary](./Summary/ReadMe.md)
+3. [Theoretical Overview](./TheoreticalOverview/ReadMe.md)
+4. [Mathematical Foundations](./MathmaticalFoundations/ReadMe.md)
+   1. [Special Relativity Review](./MathmaticalFoundations/ReadMe.md#special-relativity-review)
+   2. [Gradient Relativity Fundamentals](./MathmaticalFoundations/ReadMe.md#gradient-relativity-fundamentals)
+   3. [Hairy Ball Theory](./MathmaticalFoundations/ReadMe.md#hairy-ball-theory)
+5. [Core Equations](./CoreEquations/ReadMe.md)
+   1. [Energy–Momentum Relation](./CoreEquations/ReadMe.md#energy–momentum-relation)
+   2. [Planck‑Scale Relations](./CoreEquations/ReadMe.md#planck–scale-relations)
+   3. [Driven Harmonic Oscillator](./CoreEquations/ReadMe.md#driven-harmonic-oscillator)
+6. [Physical Interpretations](./PhysicalInterpretations/ReadMe.md)
+   1. [Electromagnetic Waves & Gravity](./PhysicalInterpretations/ReadMe.md#electromagnetic-waves--gravity)
+   2. [Space‑to‑Mass Conversion](./PhysicalInterpretations/ReadMe.md#space–to–mass-conversion)
+   3. [Black‑Hole Dynamics](./PhysicalInterpretations/ReadMe.md#black–hole-dynamics)
+   4. [Dark‑Matter Hypothesis](./PhysicalInterpretations/ReadMe.md#dark–matter-hypothesis)
+7. [Cosmological Implications](./CosmologicalImplications/ReadMe.md) 
+   1. [Universal Expansion & Heat Death](./CosmologicalImplications/ReadMe.md#universal-expansion-heat-death)  
+   2. [Big Bang & Multiverse Scenarios](./CosmologicalImplications/ReadMe.md#big-bang--multiverse-scenarios)  
+8. [Experimental Considerations](./ExperimentalConsiderations/ReadMe.md)
+   1. [Photon Nature](./ExperimentalConsiderations/ReadMe.md#photon-nature)  
+   2. [Electron Measurement Techniques](./ExperimentalConsiderations/ReadMe.md#electron-measurement-techniques)  
+   3. [Conducting Surface Phenomena](./ExperimentalConsiderations/ReadMe.md#conducting-surface-phenomena)  
+   4. [Double‑Slit Experiment Insights](./ExperimentalConsiderations/ReadMe.md#double–slit-experiment-insights)  
+9. [Discussion](./Discussion/ReadMe.md)
+   1. [Speed of Light Invariance](./Discussion/ReadMe.md#speed-of-light-invariance)  
+   2. [Conservation Laws](./Discussion/ReadMe.md#conservation-laws)  
+10. [Conclusion](./Conclusion/ReadMe.md)
+11. [Todo](./Todo/ReadMe.md)
+12. [Research](./Research/ReadMe.md)
 
-Really it’s just $E^2=(MC^2)^2 + (pc)^2$, where p is the momentum of the photon, because you can plug in 0 for the mass to get the energy of a massless photon, and when you plug in p for the momentum you get $E=MC^2$. The energy of a substance. It then follows that $C^2=\frac{E}{M}$. Or we may say in English the Speed of light squared is the ratio of the mass to the space, but the speed of light here is 1, so the ratio of the mass to the space is a 1-to-1 ratio.
-But electricity also travels at the speed of light. How? Each electron on the surface of a conductor repels each other to spread out the charge, which is just anther way of saying the energy/space between the electrons went from a higher entropy state to a lower energy state by spreading out along the conductor. The ground is where the electrons are, the positive terminal is where the negatively charged atoms are, which creates a current by the electrons spreading out equally; just like how heat radiates out from the center that is cooling down. This is just like the black hole where the center is 0, and the electrical ground is 0, which is where the particles are no longer repelling each other. When the particles are no longer repelling each other $sin^2(ω)=1-cos^2(ω).$
-If everything in the Universe were standing still then the Gravitational Equilibrium would not move because A_electron=0 at the equilibrium, but since nothing stands still but the center of a black hole, it means that particles are always going to move from $E=1$ to $E=0$, AKA gravity.
-On the surface of a conductor, the voltage will flow instantly, but the electrons have mass so they will take a while to get moving. The electricity doesn’t move through the conductor, it moves around the conductor in the magnetic field and gets stored in the capacitor which stores the electric field. (See imaginary numbers). The electrons move very very slowly, the drift velocity of an electron on a conductor is approximately $10^{-6}$ meters per second, but light speed is $299,792,458 m/s$ so how can this be true? Because each electron is connected together, and when you push on one electron they all move, with the intensity of the strong force dropping off spherically as you move away from the point charge. There is an instantaneous voltage on the conductor, but the current will take a bit of time to flow enough for your electronics to work.
-So then how do they measure a single electron in physics experiments? When a photon moves through the double-slit experiment, it is an EM wave. Just like the light speed voltage on the electrical conductor, light causes atoms to absorb photons by the wavelength of the atom being the same as the diameter of the atom, which causes the EM field to oscillate the atom, causing the electron to enter into a higher energy state. The photon will then be released when the electron goes down to a lower energy state, repeating the cycle infinitely.
-A photon isn’t a particle, it’s an EM wave. So what is this? The electrons in the Universe are all connected. As the electrons move, they create EM waves as they pass on other electrons. In an electric generator, a current isn't made by the magnet, it’s created by the movement of the magnet through the coil.
-So then what is the proton? It’s two up quarks and one down quark; put them together and they get smaller because the EM energy has been converged to mass. What’s a proton? Two up quarks and an down quark. What's an electron? Two down quarks and an up quark that are somehow all connected together. They spin 720 degrees to rotate once in the real world, meaning they spin in a different dimension. When radioactive materials decay they emit electrons and neutrinos. $E=MC^2$
-Electrons have mass, so the mass of the radioactive particle decays into electrons and the radioactive material will get lighter as it decays. Electrons are energy have creates a standing wave around atoms as the atoms enter a lower entropy (lower energy) state.
-The next logical question is does the same happen with light bulbs and LEDs? Do they lose mass like radioactive particles? No. The atoms don’t lose mass when they emit a photon because the photon is massless. The electron can only move on a conductor.
-Light travels through space by the electron’s strong force to be directed at a point charge towards another atom. The electron goes to a lower energy state, then it creates an EM wave that oscillates with every other electron, and the photon has to go from a higher energy state to a lower state, so it travels from one atom to another like a bubble floating up to the top of water. This is best explained using a pool table.
+---
 
-As the atom moves alone the path of least entropy from one electron to another, each plank particle pushes back on all the others, but they clearly have a pole as prove by polarizing light. This spin can be visualized by a set of illegal pool balls made from rubber with weights on one end all lined up in a table that are all glued together with two cue balls on the ends. Now imagine that you want to shot one of the cue balls into the hole. You would have to oscillate the pool stick back and forth until the glue at the end has come off and the ball goes into the hole.
-Now lets imagine we stuck our illegal balls in a vertical tube and shook them upside down The side with the weight would align, pushing down on the rubber, and compressing the balls slightly. Light works in the same way, only they aren’t balls, they are space, and the balls and turn into photons, electrons neutrons, etc (cite: Feynman diagrams). When the light propagates through the EM field, the plank particles alight, which causes their poles to push against each other and push the space from a higher to lower entropy state as the plank particles oscillate, causing them to grow and shrink, propagating the EM wave in the direction of the lowest entropy, which is the inverse of the mass as it goes from high entropy to low in a black hole.
-Another atom must absorb a photon for one to be emitted in order for the EM wave to propagate. Every electron is connected through spacetime such that time is the same for each observer. The force is much like an AC power line with no transmission loss due to the light moving in angular coordinates with no resistance, causing neighboring plank particles to also oscillate, creating light waves. Each electron is connected to each other and space and time are interconnected, but only one photon, AKA plank particle, at a time in a longitudinal wave that moves the space from atom to atom following which points in the direction of the Hairy Ball Theorem, the direction of this electron the EM wave is propagating towards may change around mass such as black holes, where we observe this effect as “gravity pulling light in”, when in reality all of the space is moving that way and the light’s path is just the fewest number of plank constants to the electron the EM wave is oscillating “into a higher energy orbit”/moving space into the atom.
-When a photon propagates, it may change form from proton to electron to neutron, and all the other forms of detailed Feynman diagrams based on the statistical probability the EM wave will be in any of those states. When the photon moves through both slits of the double-slit experiment, the wave is propagating through both holes, then exerts a point charge on the other side by oscillating an electron on the sensor.
-You can actually describe the black hole being black with classical physics and Rayleigh scattering. The sky looks blue from all angles for the same reason why black holes look black from all angles. If our atmosphere was thicker it would absorb all the light, then we would be closer to the energy level of a black hole. $F=MA$ when the mass of the black hole is near infinity but the acceleration is 0, then there is no force. This can only happen where there is an extreme, conceptually near infinitely dense electron, but we know from Hawking Radiation that there is a minimum temperature and hence maximum number of electrons on an atom. No force means what? It means there is no more force from gravity and the speed of light is zero at that point.
-This is the equation of the Driven harmonic oscillator.
-$Ma=−Mω_R^2x−qε_0sin\left(ωt\right)$
-ω is the frequency of the light, which we want to cut off at 0hz, but we need to measure it in radians. Lucky for us we’re just trying to plug 0 in so the conversion is pretty easy, $0Hz$ means $ω=0$.
-$ω_R$ “the frequency the atoms in the black hole want to wiggle at”, which is double the diameter. When the matter has gotten dense to the point of the Bose-Einstein condensate, there is so much energy stored in mass that quantum field ‘springs’, AKA Plank Particles, are all compressed, and the particles can’t wiggle anymore, dropping the ω to 0, which is Sin(0) which is 0. So we can pretend we have an imaginary particle of whatever width we want and mass.
-This leaves us with $Ma=−Mω_R^2x=0$.
-$Mω_R^2x=−qε_0sin\left(ωt\right)=0$
-Now we know that the light will cut off when the ω_R term drops to 0. This is less of a stretch to believe because the black hole is black and so the force of the EM radiation coming off of it is by definition 0. This perspective allows us to now look at traveling to other stars as if we’re accelerating up the EM field, then back down towards the black hole arriving at the destination planet. The sun may warm me up right now, but all of those plank particles oscillating electrons to make me warm end up in a black hole.
-This happens when molecules are packed so close together they can't oscillate. When this happens then the acceleration of the electrons has gone to 0, which means all the space has been converted into mass. All your light gases will 'wiggle' in the ultraviolet frequency. The atmosphere then causes the sky to look blue by shifting the ultraviolet frequency to blue. In a black hole, the light frequencies are cut off past $0 Hz$.
-We know this theory isn’t bozo at this point because at the point where the inflection at $sin(pi/2)$ the only way the driving force of the harmonic oscillator can equal when $Mω_R^2x=qε_0$, and the acceleration of the electrons through the EM field is also 0 because, in the exact gravitational center, we aren’t accelerating. We’re going the speed of light but the plank constant is near 0 and we’re standing still. At this point where $C=0$ the plank length, volume, and area are is infinity, meaning black and the Plank momentum, energy, force, and density are now zero, meaning the energy in the space is near 0 at the center of a blackhole respecting Hawking Radiation.
-Now we just have to explain why light isn’t being pulled in by a black hole, which then explains how the space got into the atom. The light is taking the shortest possible route through spacetime, like a bubble takes the shortest path to the top of water, which means it’s traveling through the shortest number of plank constants. As you pack more particles, the spacing between the particles goes down, and there are places where the acceleration of the electron through the EM field is 0 between every electron.
-The molecules need to be at least half a wavelength away to not have any Rayleigh scattering, but they're not, they are being packed up as tight as possible. Between each atom are a bunch of these plank constants.
-When you put electrons closer together, you are compressing the number of plank constants. These plank constants are springs that contract and expand using the law of sins, giving you repulsive forces. This maximum space that can fit in this area is defined by the speed of light. You can’t fit more space in there than light speed permits.
-**THE SPEED OF LIGHT SHALL NOT BE VIOLATED!!!**
-So what does this have to do with planets colliding? Gradient relativity. Energy flows from one to zero in a gradient. The big bang was an explosion no doubt, so where did it come from?
-In order for a planet to travel near light speed, space would have to expand and there must be multiple Universes that are also expanding, sending planets and black holes into each other’s path. Eventually, the universe will get spread out so the stars can’t see each other, and eventually, they will speed up to near-light speed. But do electron magnetic waves still travel through empty space?
-The answer is yes. $E=MC^2$. Every mass has energy, and that energy can be multiplied exponentially through acceleration. The growth rate of the Universe is constant, or 1. The Universe is bound to die by heat death, hence all the long quantum physics above. What does heat death mean? There is no more EM radiation. No EM radiation means no EM field as we know it. Does this mean the mass is gone? No. Mass is EM radiation that has been converted into mass.
-The mass of Earth is $5.972\cdot 10^{24}\:kg$. Two planets the size of Earth would inevitably collide, at which time it would make an explosion the size of the Big Bang where the high mass entropy is now turned into high space entropy, which we can observe with LIGO as a “gravity wave”. Gradient relativity states the black hole is the end of time, the collision between two planets that created another Universe would be the beginning of time. There are a lot more planets than stars the probability of them colliding is much higher.
-It would take infinite energy to accelerate to the speed of light, but the Universe is expanding such that parts of the Universe are moving away from each other faster than light. As the atoms spread out such that there is infinitely sufficient distance between, it has turned into pure space, which can move at light speed or possibly faster. If there are other Universes then eventually, they would collide, causing the space to repel each in a big bang.
-The direction of the big bang would then be the sum of the forces of the space. The combined Universes would each have their own amount of energy/space in them with it’s own trajectory, and the space would travel the direction of least action from less ordered state to highly ordered state.
-Essentially the entire Universe is a giant oscillator, and so is each Galaxy, sun, planet, moon, moon-moon, asteroid, and even you. The Universe can’t tear itself apart or big chill because it’s an oscillator and all it will do is expand and contract infinitely, which is why energy can’t be created or destroyed, it can only change form.
-**!!! CONSERVATION OF ENERGY SHALL NOT BE VIOLATED !!!**
-$Energy_{mass}+Energy_{space}+Energy_{universe}=0$
-∀ points in space
-**Todo:**
-Convert Hawking Temperature to Plank Length,.
-**Notes:**
-This is open-source research that probably contains errors. These are notes for Future:
-Alternate form of the Schwarzschild radius formula
-$ds^2=(1-R_s/r)dt^2 + (1/(1-R_s/r))dr^2 + r^2dΩ^2$
-Modulus squared of wave function: when you multiply a complex number by it’s conjugate you get the sum of the square of the real and imaginary parts; both are real and non-negative.
+## Abstract {#abstract}
+*Brief summary of the Theory of Gradient Relativity, its key claims, and motivations.*
+
+## TL;DR Summary {#tldr-summary}
+*Concise bullet‑point overview of the main results.*
+
+## Theoretical Overview {#theoretical-overview}
+*Introduction to the conceptual framework linking gradient fields, condensed space, and electron dynamics.*
+
+## Mathematical Foundations {#mathematical-foundations}
+### Special Relativity Review {#special-relativity-review}
+*Recap of $E=MC^2$, $E^2=(MC^2)^2+(pv)^2$, and $C=1/\sqrt{\varepsilon_0\mu_0}$.*
+
+### Gradient Relativity Fundamentals {#gradient-relativity-fundamentals}
+*Definition of gradient equilibrium, Planck‑scale constants, and the $sin(\pi/2)$ scaling.*
+
+## Core Equations {#core-equations}
+### Energy–Momentum Relation {#energy–momentum-relation}
+*Derivation of $q\varepsilon_0\sin(\pi/2)=C^2$ and related expressions.*
+
+### Planck‑Scale Relations {#planck–scale-relations}
+*Formulas for Planck length, Planck mass, and their dependence on $C=1$.*
+
+### Driven Harmonic Oscillator {#driven-harmonic-oscillator}
+*Equation $Ma=-M\omega_R^2x-q\varepsilon_0\sin(\omega t)$ and its implications.*
+
+## Physical Interpretations {#physical-interpretations}
+### Electromagnetic Waves & Gravity {#electromagnetic-waves--gravity}
+*Explanation of EM wave generation and gravitational effects via electron acceleration.*
+
+### Space‑to‑Mass Conversion {#space–to–mass-conversion}
+*Mechanism by which condensed space manifests as mass and boson spin transfer.*
+
+### Black‑Hole Dynamics {#black–hole-dynamics}
+*Analysis of event‑horizon behavior, $sin(\pi/2)$ inflection, and Hawking‑temperature bounds.*
+
+### Dark‑Matter Hypothesis {#dark–matter-hypothesis}
+*Identification of dark matter as low‑energy gravitational equilibrium states.*
+
+## Cosmological Implications {#cosmological-implications}
+### Universal Expansion & Heat Death {#universal-expansion--heat-death}
+*Discussion of $C=1$ expansion, heat death, and energy conservation.*
+
+### Big Bang & Multiverse Scenarios {#big-bang--multiverse-scenarios}
+*Link between planetary collisions, new‑universe creation, and multiverse trajectories.*
+
+## Experimental Considerations {#experimental-considerations}
+### Photon Nature {#photon-nature}
+*Interpretation of photons as EM waves and plank‑particle excitations.*
+
+### Electron Measurement Techniques {#electron-measurement-techniques}
+*Methods for detecting single electrons and measuring drift velocity.*
+
+### Conducting Surface Phenomena {#conducting-surface-phenomena}
+*Surface charge distribution, instantaneous voltage, and magnetic field storage.*
+
+### Double‑Slit Experiment Insights {#double–slit-experiment-insights}
+*Wave‑particle duality, slit interaction, and sensor detection mechanisms.*
+
+## Discussion {#discussion}
+### Speed of Light Invariance {#speed-of-light-invariance}
+*Analysis of $C=1$ invariance, gradient constraints, and violation prohibitions.*
+
+### Conservation Laws {#conservation-laws}
+*Verification of energy, momentum, and charge conservation within the framework.*
+
+## Conclusion {#conclusion}
+*Summary of findings and potential future research directions.*
+
+## TODO {#todo}
+- Convert Hawking Temperature to Planck Length.  
+- Expand on alternate Schwarzschild radius formulation.  
+- Validate mathematical derivations with numerical simulations.
+
+## Notes {#notes}
+- Open‑source research notes; may contain errors.  
+- References to classical physics analogies and Feynman diagrams.  
