@@ -1,0 +1,575 @@
+1
+00:00:00,402 --> 00:00:02,993
+Please like and subscribe if you want to follow open
+
+2
+00:00:03,006 --> 00:00:08,021
+research into Gradient Relativity This is a hypothesis under development
+
+3
+00:00:08,217 --> 00:00:10,599
+not an established explanation of nature
+
+4
+00:00:12,752 --> 00:00:15,369
+Find the paper and code at github dot com slash
+
+5
+00:00:15,395 --> 00:00:19,837
+A Star Starship slash Gradient Relativity Here is the idea
+
+6
+00:00:19,994 --> 00:00:22,155
+its boundaries and how we could test it
+
+7
+00:00:25,269 --> 00:00:31,365
+First established physics Light carries energy and momentum It can
+
+8
+00:00:31,391 --> 00:00:34,503
+transfer energy to matter and a black hole can capture
+
+9
+00:00:34,529 --> 00:00:35,414
+incoming light
+
+10
+00:00:38,052 --> 00:00:41,841
+Second Cale McCollough's postulate an electron might have an internal
+
+11
+00:00:41,867 --> 00:00:44,992
+cycle exchanging what the model calls space energy and mass
+
+12
+00:00:45,018 --> 00:00:45,526
+energy
+
+13
+00:00:48,269 --> 00:00:52,279
+Third speculation connecting that cycle to a gradient from maximum
+
+14
+00:00:52,292 --> 00:00:55,170
+expansion to a zero endpoint at a black hole's center
+
+15
+00:00:56,096 --> 00:00:58,518
+The center's physical structure is unknown
+
+16
+00:01:03,402 --> 00:01:06,605
+In McCollough's theory the highest energy state is between two
+
+17
+00:01:06,618 --> 00:01:11,281
+masses Space there can oscillate at one hundred percent maximum
+
+18
+00:01:11,308 --> 00:01:15,917
+space and electromagnetic activity described as expansion normalized to one
+
+19
+00:01:18,068 --> 00:01:22,079
+That expansion creates proposed positive pressure pushing space into the
+
+20
+00:01:22,092 --> 00:01:26,391
+masses As space is condensed into mass the model's space
+
+21
+00:01:26,417 --> 00:01:30,102
+and electromagnetic component falls from one hundred percent toward zero
+
+22
+00:01:30,115 --> 00:01:34,073
+percent at the black hole This is the author's mechanism
+
+23
+00:01:34,360 --> 00:01:35,857
+not a derived pressure law
+
+24
+00:01:38,002 --> 00:01:40,814
+The space flows toward both masses away from the middle
+
+25
+00:01:41,036 --> 00:01:43,392
+but in this proposal it is not pushing the masses
+
+26
+00:01:43,418 --> 00:01:48,277
+apart As intervening space condenses into the masses the distance
+
+27
+00:01:48,303 --> 00:01:54,371
+between them shrinks McCollough identifies this contraction as gravity The
+
+28
+00:01:54,397 --> 00:01:57,861
+animation illustrates that claim it does not derive the measured
+
+29
+00:01:57,887 --> 00:01:58,668
+contraction
+
+30
+00:02:01,535 --> 00:02:05,572
+Zero percent refers to the space and electromagnetic component not
+
+31
+00:02:05,585 --> 00:02:09,779
+zero total energy Energy can remain stored in the mass
+
+32
+00:02:09,792 --> 00:02:14,415
+component This spatial gradient and an electron's internal cycle are
+
+33
+00:02:14,441 --> 00:02:17,553
+different concepts the theory still needs to derive how they
+
+34
+00:02:17,579 --> 00:02:18,269
+are connected
+
+35
+00:02:21,268 --> 00:02:25,135
+The proposal focuses on incoming photons as a possible driver
+
+36
+00:02:26,049 --> 00:02:29,291
+But crossing an event horizon does not require absorption by
+
+37
+00:02:29,317 --> 00:02:33,939
+an electron Causal trapping and absorption are different processes
+
+38
+00:02:36,834 --> 00:02:39,426
+A bound atom can absorb a photon into an allowed
+
+39
+00:02:39,439 --> 00:02:44,180
+excited state A free electron can exchange energy through scattering
+
+40
+00:02:45,105 --> 00:02:48,725
+Complete absorption by an isolated free electron in vacuum cannot
+
+41
+00:02:48,751 --> 00:02:50,704
+conserve both energy and momentum
+
+42
+00:02:53,501 --> 00:02:55,962
+So the new step is not that light interacts with
+
+43
+00:02:55,988 --> 00:02:59,623
+matter It is the claim that this interaction drives a
+
+44
+00:02:59,649 --> 00:03:04,844
+space-to-mass cycle That needs an explicit coupling recoil partner and
+
+45
+00:03:04,870 --> 00:03:05,691
+calculation
+
+46
+00:03:08,867 --> 00:03:14,286
+The proposed picture connects electrons through the electromagnetic field Energy
+
+47
+00:03:14,312 --> 00:03:18,283
+could statistically transfer from any electron to any other electron
+
+48
+00:03:19,208 --> 00:03:22,463
+The source receiver and the possible routes all belong to
+
+49
+00:03:22,476 --> 00:03:23,062
+the story
+
+50
+00:03:25,267 --> 00:03:29,265
+McCollough describes the movement as exploring infinitely many possible paths
+
+51
+00:03:29,291 --> 00:03:32,743
+until it takes the path of least action These drawn
+
+52
+00:03:32,756 --> 00:03:36,116
+curves stand for that interpretation they are not a calculation
+
+53
+00:03:36,142 --> 00:03:38,837
+of an infinite path integral or measured trajectories
+
+54
+00:03:41,734 --> 00:03:44,729
+The proposed inward bias assumes that most electrons in the
+
+55
+00:03:44,742 --> 00:03:48,570
+galaxy are inside its black hole providing many receiving endpoints
+
+56
+00:03:48,596 --> 00:03:53,116
+there That majority is an assumption not an established galaxy
+
+57
+00:03:53,142 --> 00:03:57,869
+census Observed central star clusters surround the black hole they
+
+58
+00:03:57,895 --> 00:03:58,832
+are not inside it
+
+59
+00:04:01,734 --> 00:04:05,966
+The standard quantum reference sums complex amplitudes over possible paths
+
+60
+00:04:06,879 --> 00:04:10,642
+Interference leads to stationary action in a classical limit not
+
+61
+00:04:10,655 --> 00:04:14,978
+necessarily a global minimum It does not establish a photon
+
+62
+00:04:15,004 --> 00:04:19,366
+sequentially trying routes The proposed transfer law needs its own
+
+63
+00:04:19,379 --> 00:04:22,478
+probabilities interactions and causal constraints
+
+64
+00:04:25,533 --> 00:04:28,997
+Here is a schematic of the proposed internal cycle distinct
+
+65
+00:04:29,023 --> 00:04:33,673
+from the spatial diagram between masses At zero degrees its
+
+66
+00:04:33,686 --> 00:04:38,205
+bookkeeping is one hundred percent space energy The percentages are
+
+67
+00:04:38,231 --> 00:04:40,939
+postulates not measured electron phases
+
+68
+00:04:43,133 --> 00:04:46,232
+Across the first three hundred and sixty degrees the space
+
+69
+00:04:46,245 --> 00:04:50,258
+fraction falls as the mass fraction rises At three hundred
+
+70
+00:04:50,284 --> 00:04:54,125
+and sixty degrees the illustration reaches one hundred percent mass
+
+71
+00:04:54,151 --> 00:04:54,685
+energy
+
+72
+00:04:56,866 --> 00:05:00,434
+At the mass endpoint another incoming interaction is proposed to
+
+73
+00:05:00,460 --> 00:05:05,397
+restart space oscillation Across another three hundred and sixty degrees
+
+74
+00:05:05,645 --> 00:05:09,876
+the illustration returns to the space endpoint The smooth curve
+
+75
+00:05:09,902 --> 00:05:13,262
+and the triggering pulse are cartoons not derived equations of
+
+76
+00:05:13,288 --> 00:05:13,744
+motion
+
+77
+00:05:15,933 --> 00:05:20,336
+The electron's charge must still be accounted for throughout Calling
+
+78
+00:05:20,362 --> 00:05:23,019
+a phase pure space does not make a charged electron
+
+79
+00:05:23,045 --> 00:05:24,243
+into a neutral photon
+
+80
+00:05:27,266 --> 00:05:30,977
+In standard quantum mechanics a spin one-half spinor changes sign
+
+81
+00:05:30,990 --> 00:05:34,167
+under a three hundred and sixty degree rotation and returns
+
+82
+00:05:34,193 --> 00:05:37,971
+after seven hundred and twenty A global sign alone is
+
+83
+00:05:37,984 --> 00:05:41,265
+not observable a relative sign can affect interference
+
+84
+00:05:43,399 --> 00:05:46,589
+Drawing a two-turn loop does not derive that transformation law
+
+85
+00:05:46,798 --> 00:05:51,956
+the electron's magnetic moment or Fermi statistics The proposed field
+
+86
+00:05:51,982 --> 00:05:53,805
+must reproduce those separately
+
+87
+00:05:56,532 --> 00:05:59,540
+The measured electron rest energy is about five hundred and
+
+88
+00:05:59,566 --> 00:06:05,011
+eleven kiloelectronvolts Repartitioning a fixed internal total would not by
+
+89
+00:06:05,037 --> 00:06:09,373
+itself mean the observable rest mass oscillates to zero The
+
+90
+00:06:09,386 --> 00:06:11,626
+model must say what a detector measures
+
+91
+00:06:14,732 --> 00:06:19,071
+Now follow the author's proposed gradient inward The high space
+
+92
+00:06:19,097 --> 00:06:23,302
+and electromagnetic endpoint is between masses with expansion normalized to
+
+93
+00:06:23,328 --> 00:06:27,456
+one The black-hole center is the opposite endpoint zero in
+
+94
+00:06:27,482 --> 00:06:30,099
+that component not the highest expansion state
+
+95
+00:06:32,266 --> 00:06:35,938
+The proposed center contains electrons slowing to zero as incoming
+
+96
+00:06:35,964 --> 00:06:39,453
+interactions drive them toward maximum storage in the mass component
+
+97
+00:06:40,380 --> 00:06:44,195
+This is not a known highest atomic energy level The
+
+98
+00:06:44,221 --> 00:06:47,984
+stopped motion and the energy partition need explicit definitions and
+
+99
+00:06:48,010 --> 00:06:49,534
+a dynamical calculation
+
+100
+00:06:51,732 --> 00:06:55,456
+When another incoming photon or particle hits the stopped configuration
+
+101
+00:06:55,704 --> 00:06:59,024
+the proposal turns stored mass energy back into space energy
+
+102
+00:06:59,050 --> 00:07:04,300
+and restarts oscillation The incoming energy recoil charge and any
+
+103
+00:07:04,326 --> 00:07:07,880
+losses must also be accounted for This is not an
+
+104
+00:07:07,893 --> 00:07:09,873
+escape route through an event horizon
+
+105
+00:07:12,799 --> 00:07:16,588
+These are the theory's proposed center dynamics not observations of
+
+106
+00:07:16,601 --> 00:07:22,059
+a black-hole interior Zero electromagnetic oscillation does not establish zero
+
+107
+00:07:22,085 --> 00:07:26,877
+total energy or zero local light speed Standard general relativity
+
+108
+00:07:26,903 --> 00:07:30,640
+keeps local c in regular frames the center's physical structure
+
+109
+00:07:30,666 --> 00:07:31,590
+remains unknown
+
+110
+00:07:34,599 --> 00:07:39,237
+The notes contain two light-speed laws Sigma means the space-energy
+
+111
+00:07:39,263 --> 00:07:42,440
+fraction and u is the proposed speed divided by vacuum
+
+112
+00:07:42,466 --> 00:07:46,619
+c The first law grows without bound as sigma approaches
+
+113
+00:07:46,646 --> 00:07:46,945
+one
+
+114
+00:07:49,082 --> 00:07:52,833
+The bounded simulation formula instead reaches one at equal fractions
+
+115
+00:07:52,859 --> 00:07:56,311
+and goes to zero at both endpoints These are not
+
+116
+00:07:56,324 --> 00:07:58,381
+equivalent laws for the same sigma
+
+117
+00:08:00,566 --> 00:08:04,617
+Both give one at sigma equal to one-half They also
+
+118
+00:08:04,630 --> 00:08:08,367
+meet at the zero endpoint in the limiting sense Away
+
+119
+00:08:08,380 --> 00:08:12,508
+from those points they differ Resolve this before treating either
+
+120
+00:08:12,534 --> 00:08:16,154
+as a prediction and separate local physics from coordinate effects
+
+121
+00:08:19,265 --> 00:08:23,302
+First define the spatial space and electromagnetic scale the internal
+
+122
+00:08:23,328 --> 00:08:28,122
+fractions the pressure law and the stopped-motion variable Derive their
+
+123
+00:08:28,148 --> 00:08:33,656
+coupling conserved charge energy and momentum Demonstrate a stable localized
+
+124
+00:08:33,682 --> 00:08:37,184
+state and a collision-driven restart without prescribing the answer
+
+125
+00:08:39,332 --> 00:08:44,907
+Second calculate the incoming-photon budget and losses The older galactic
+
+126
+00:08:44,920 --> 00:08:48,267
+Larmor estimate in this repository supplies only about two point
+
+127
+00:08:48,280 --> 00:08:51,027
+six times ten to the minus forty-four of an electron's
+
+128
+00:08:51,053 --> 00:08:55,324
+rest energy per orbit under that approximation It does not
+
+129
+00:08:55,350 --> 00:08:56,951
+test the new photon driver
+
+130
+00:08:59,132 --> 00:09:03,403
+Third compare the proposed model with quantum electrodynamics and general
+
+131
+00:09:03,429 --> 00:09:10,059
+relativity using identical inputs Test photon-driven no-photon and standard-physics controls
+
+132
+00:09:10,983 --> 00:09:14,668
+A scripted oscillation or a scalar-wave movie is not experimental
+
+133
+00:09:14,694 --> 00:09:15,228
+evidence
+
+134
+00:09:17,399 --> 00:09:21,227
+Finally predict a numerical change in a magnetic moment spectral
+
+135
+00:09:21,253 --> 00:09:27,049
+line scattering response or interference signal Declare uncertainties and exclusion
+
+136
+00:09:27,062 --> 00:09:31,555
+criteria before examining data A null result can reject a
+
+137
+00:09:31,581 --> 00:09:35,174
+specified model variant not every possible hidden mechanism
+
+138
+00:09:38,265 --> 00:09:42,812
+The paper code and research checklist are on GitHub Quantum
+
+139
+00:09:42,838 --> 00:09:47,070
+physicists please submit critiques corrections and proposed tests as a
+
+140
+00:09:47,083 --> 00:09:48,137
+GitHub issue ticket
+
+141
+00:09:50,282 --> 00:09:53,394
+If you would like feedback from quantum physicists open an
+
+142
+00:09:53,420 --> 00:09:58,982
+issue with a specific question equation or reproducible calculation Thank
+
+143
+00:09:58,995 --> 00:10:01,677
+you for your time and for helping make this research
+
+144
+00:10:01,704 --> 00:10:02,498
+more rigorous

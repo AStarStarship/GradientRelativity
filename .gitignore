@@ -234,3 +234,19 @@ FakesAssemblies/
 GeneratedArtifacts/
 _Pvt_Extensions/
 ModelManifest.xml
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Video / render output (regenerable)
+*.mp4
+Sim/Video/media/
+
+# Simulation outputs (regenerable)
+Sim/fdtd_*.npy
+Sim/fdtd_*.png
+Sim/fdtd_summary.txt
+Sim/run_report.json
+Sim/Web/sim_bundle.json

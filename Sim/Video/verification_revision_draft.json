@@ -1,0 +1,29 @@
+{
+  "verification_kind": "ad_hoc",
+  "verified_at": "2026-10-09T05:14:24.269116+00:00",
+  "scope": "revised narration, source extraction, sampled draft layouts and real rendered media",
+  "quality": "draft",
+  "chapters": 11,
+  "narrated_beats": 36,
+  "captions": 144,
+  "duration_seconds": 607.197,
+  "max_volume_db": -2.3,
+  "long_silence_durations": [],
+  "full_decode": "passed",
+  "offscreen_or_overlapping_text": 0,
+  "missing_scene_classes": [],
+  "original_video_preserved": true,
+  "imposed_mass_label_gap_scene_units": {
+    "before": 9.0,
+    "after": 6.6
+  },
+  "formal_suites_or_linters_run": false,
+  "human_viewing_or_listening": false,
+  "physics_validated": false,
+  "sha256": "4215f6b328d957559e59dc8fe1f8bff185f77bfc38eb17f69ecad6095b7cae9c",
+  "source_hashes": {
+    "narration.json": "f7a3b4b31c58fdaa023b42d3dd43dd24a350f35c1d5b8b423e821d30b179caaf",
+    "gradient_relativity.py": "a10f9f81dccfce1a340c2e71008d5389cb26d25c1f7a7ca69bf9719b44b8ebca",
+    "render_video.py": "3619788a6b7cf1975190baed83cc328db1203cb5781cf52460c1c69862586f8c"
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "id": 1,
+      "url": "https://science.nasa.gov/universe/black-holes/anatomy",
+      "title": "",
+      "accessed": "2026-10-08",
+      "quotes": [
+        {
+          "text": "The prediction of a singularity may signal the limits of relativity, where quantum effects not included in the theory become important in a more complete description of gravity.",
+          "added": "2026-10-08"
+        },
+        {
+          "text": "Because light can’t escape, black holes themselves neither emit nor reflect it, and nothing about what happens within them can reach an outside observer.",
+          "added": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "url": "https://www.feynmanlectures.caltech.edu/III_06.html",
+      "title": "",
+      "accessed": "2026-10-08"
+    },
+    {
+      "id": 3,
+      "url": "https://physics.nist.gov/cgi-bin/cuu/Value?mec2mev",
+      "title": "",
+      "accessed": "2026-10-08",
+      "quotes": [
+        {
+          "text": "0.510 998 950 69(16) MeV",
+          "added": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "url": "https://arxiv.org/abs/2209.13084",
+      "title": "",
+      "accessed": "2026-10-08",
+      "quotes": [
+        {
+          "text": "The test would improve an order of magnitude if the uncertainty from discrepant measurements of the fine structure constant $\\alpha$ is eliminated since the SM prediction is a function of $\\alpha$.",
+          "added": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "url": "https://www.feynmanlectures.caltech.edu/I_15.html",
+      "title": "",
+      "accessed": "2026-10-08"
+    },
+    {
+      "id": 6,
+      "url": "https://www.feynmanlectures.caltech.edu/III_09.html",
+      "title": "",
+      "accessed": "2026-10-08"
+    },
+    {
+      "id": 7,
+      "url": "https://en.wikipedia.org/wiki/Spinor",
+      "title": "",
+      "accessed": "2026-10-08",
+      "quotes": [
+        {
+          "text": "a spinor transforms to its negative when the space rotates through 360° (see picture). It takes a rotation of 720° for a spinor to go back to its original state.",
+          "added": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "url": "https://en.wikipedia.org/wiki/Local_Lorentz_invariance",
+      "title": "",
+      "accessed": "2026-10-08",
+      "quotes": [
+        {
+          "text": "refers to Lorentz covariance applying only locally in an infinitesimal region of spacetime at every point.",
+          "added": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "url": "https://en.wikipedia.org/wiki/Atomic_electron_transition",
+      "title": "",
+      "accessed": "2026-10-08",
+      "quotes": [
+        {
+          "text": "Electrons can also absorb passing photons, which excites the electron into a state of higher energy.",
+          "added": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "url": "https://www.feynmanlectures.caltech.edu/II_19.html",
+      "title": "",
+      "accessed": "2026-10-09"
+    },
+    {
+      "id": 11,
+      "url": "https://goldphysics.unm.edu/phys521/lec10.pdf",
+      "title": "",
+      "accessed": "2026-10-09",
+      "quotes": [
+        {
+          "text": "The amplitude at the detector is the sum of the amplitudes for the two paths:",
+          "added": "2026-10-09"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "url": "https://science.nasa.gov/mission/webb/science-overview/science-explainers/what-is-the-center-of-our-galaxy-like",
+      "title": "",
+      "accessed": "2026-10-09",
+      "quotes": [
+        {
+          "text": "The star cluster surrounds the Milky Way’s central supermassive black hole, which is about 4 million times the mass of the Sun.",
+          "added": "2026-10-09"
+        }
+      ]
+    }
+  ]
+}

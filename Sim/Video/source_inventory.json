@@ -1,0 +1,292 @@
+{
+  "root": "/home/astarcale/AStarStarship/GradientRelativity",
+  "scope": "All project Markdown recursively; excludes dependency and generated directories.",
+  "excluded_directories": [
+    ".git",
+    ".venv",
+    "__pycache__",
+    "media",
+    "node_modules",
+    "venv"
+  ],
+  "file_count": 46,
+  "total_bytes": 165418,
+  "files": [
+    {
+      "path": ".github/ISSUE_TEMPLATE/artifact.md",
+      "bytes": 260,
+      "lines": 18,
+      "sha256": "a6015fee5e039414ac3446625d82bb386c38189547cc94e5eeb57466b50bb473"
+    },
+    {
+      "path": ".github/ISSUE_TEMPLATE/bug_report.md",
+      "bytes": 773,
+      "lines": 56,
+      "sha256": "e305a6b7aa98866b82b4c7db03530391619a8a71f0bab38e41bf6144dbc682c0"
+    },
+    {
+      "path": ".github/ISSUE_TEMPLATE/change.md",
+      "bytes": 265,
+      "lines": 14,
+      "sha256": "3d7b3a912a10ca2e121e305516b2330128311e188adb225b35bb7e11e6d0a593"
+    },
+    {
+      "path": ".github/ISSUE_TEMPLATE/feature_request.md",
+      "bytes": 361,
+      "lines": 32,
+      "sha256": "d2186e11c0bb4884f3705b8b5638e1a95811e22bb29090051e31704cbd276e24"
+    },
+    {
+      "path": ".github/ISSUE_TEMPLATE/incident.md",
+      "bytes": 260,
+      "lines": 25,
+      "sha256": "99eef5af78ae8b57297c098f74d10af14ed02c1fc41a4cad629ddd87e1a4ffdf"
+    },
+    {
+      "path": ".github/ISSUE_TEMPLATE/milestone.md",
+      "bytes": 222,
+      "lines": 18,
+      "sha256": "f012be2fa722823b75619c9c2220455b24bd518c571b794df1cb1cf968740dda"
+    },
+    {
+      "path": ".github/ISSUE_TEMPLATE/mission.md",
+      "bytes": 311,
+      "lines": 34,
+      "sha256": "c62912788da62f81a0e7b937db57a101e11be18a774aad8e6c294d86da26806a"
+    },
+    {
+      "path": "AGENTS.md",
+      "bytes": 9682,
+      "lines": 212,
+      "sha256": "59324a09a34399bf9659d1641e1ff82296401402df3523cadc219c697cc76660"
+    },
+    {
+      "path": "AGENT_PLAN.md",
+      "bytes": 14036,
+      "lines": 352,
+      "sha256": "9d98a1205a5893da801aef013a80f4d62d2debd26c9b1a158cef1943bf6a71c7"
+    },
+    {
+      "path": "Divergance/language-general-relativity-limits-of-knowledge.md",
+      "bytes": 24581,
+      "lines": 286,
+      "sha256": "02c494ba010b3d705577846a0134bdccfc9d70777c7ee36093eac30511df91a4"
+    },
+    {
+      "path": "Paper/Abstract/README.md",
+      "bytes": 1184,
+      "lines": 23,
+      "sha256": "6db63306859d277dfb43de0e8d6127dc329dd22d0622d02e427bd50bdbbd17e5"
+    },
+    {
+      "path": "Paper/Abstract/ReadMe.Prompt.md",
+      "bytes": 664,
+      "lines": 1,
+      "sha256": "bf22a7c6c57dcc4e42e7a89dc41bb8950782714ce1155e1da2ac723047e5b8a8"
+    },
+    {
+      "path": "Paper/Abstract/ReadMe1.md",
+      "bytes": 1425,
+      "lines": 9,
+      "sha256": "99812fcea040ca94d09f72983876be3805c0bc176acf6ba1b40e3e3ddd0848f8"
+    },
+    {
+      "path": "Paper/Conclusion/README.md",
+      "bytes": 0,
+      "lines": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "Paper/CoreEquations/README.md",
+      "bytes": 2658,
+      "lines": 81,
+      "sha256": "24d27266d69c6f65bd4823e6ddbd802d6688a32c0f62e5dde20905d031583c86"
+    },
+    {
+      "path": "Paper/CosmologicalImplications/README.md",
+      "bytes": 0,
+      "lines": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "Paper/Discussion/README.md",
+      "bytes": 2187,
+      "lines": 45,
+      "sha256": "858857cfc6f819cf31bf6422813eebb12a360a79d3e3102f516b75ed8346afdc"
+    },
+    {
+      "path": "Paper/EquationAudit.md",
+      "bytes": 12365,
+      "lines": 475,
+      "sha256": "c0897142953d692645dbc281cf06e91a505ce096791eeecbe0cafc80550898f3"
+    },
+    {
+      "path": "Paper/ExperimentalConsiderations/README.md",
+      "bytes": 3964,
+      "lines": 78,
+      "sha256": "137591b44b2b70f2e9648715794e1963043673d8b839d298f09fc725e5512b5e"
+    },
+    {
+      "path": "Paper/MathmaticalFoundations/README.md",
+      "bytes": 0,
+      "lines": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "Paper/PhysicalInterpretations/README.md",
+      "bytes": 0,
+      "lines": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "Paper/README.md",
+      "bytes": 6037,
+      "lines": 114,
+      "sha256": "e32962ac81cfdfc689406259d5e6b1c985d2a3e1ab4f691b11dd29541f07e0d4"
+    },
+    {
+      "path": "Paper/Research/README.md",
+      "bytes": 0,
+      "lines": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "Paper/Research.md",
+      "bytes": 9659,
+      "lines": 154,
+      "sha256": "fdb0d8025cb9b5447009394d34c422f089d398fabe557f89fe597601b338c82b"
+    },
+    {
+      "path": "Paper/RoughDraft.md",
+      "bytes": 33202,
+      "lines": 135,
+      "sha256": "d5e3a5d5d0484c797892637392c02dc7a87e85ff185cfea0a27103e82355d29b"
+    },
+    {
+      "path": "Paper/RoughDraftImproved.Prompt.md",
+      "bytes": 2360,
+      "lines": 7,
+      "sha256": "53a663fb6da20f0e207b59587a0e9e9b611ff90dc25fc98c5264ae748c1fddbf"
+    },
+    {
+      "path": "Paper/RoughDraftImproved.md",
+      "bytes": 11426,
+      "lines": 115,
+      "sha256": "b6955eb538fc74c83a7f48b268041981323215d76c9620507e51872139b369fc"
+    },
+    {
+      "path": "Paper/Summary/README.md",
+      "bytes": 1064,
+      "lines": 1,
+      "sha256": "a9adf6acd56d2ba020fb677a4aea38d7f7b27a70608c3d917184c7308972e069"
+    },
+    {
+      "path": "Paper/TheoreticalOverview/README.md",
+      "bytes": 0,
+      "lines": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "Paper/Todo/README.md",
+      "bytes": 3024,
+      "lines": 50,
+      "sha256": "53acc8400325e3753060ce30e24d15f05fdac9b140b9822838b49ef2986a2cb3"
+    },
+    {
+      "path": "Project/Personas/Albert/README.md",
+      "bytes": 695,
+      "lines": 23,
+      "sha256": "50e88b6693ece3a5eed882de7ca5737821877b9c116930676f2a04b283530d4b"
+    },
+    {
+      "path": "Project/Personas/Cale/README.md",
+      "bytes": 1360,
+      "lines": 25,
+      "sha256": "ff9cf18c119131d4d3d66ac31570c86dc17badfe6d46c1aa2af780c1c3ff7e2f"
+    },
+    {
+      "path": "Project/Personas/Mary/README.md",
+      "bytes": 1078,
+      "lines": 28,
+      "sha256": "67befe91360f860087ffc5fd5143bc7f328e3940e6770afc266f08ec5191ff2b"
+    },
+    {
+      "path": "Project/Personas/README.md",
+      "bytes": 0,
+      "lines": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "Project/Problems/README.md",
+      "bytes": 82,
+      "lines": 3,
+      "sha256": "d6d510ec78022e83eeea99f99708fd30b14506758285e68725ee80c396fcfb4d"
+    },
+    {
+      "path": "Project/Questions/README.md",
+      "bytes": 73,
+      "lines": 5,
+      "sha256": "6ad506dba2957c12de30fe3ce6b09dcaab5ecfca4976c7d11810a298d5cc084d"
+    },
+    {
+      "path": "Project/Research/HairyBall/README.md",
+      "bytes": 333,
+      "lines": 3,
+      "sha256": "5a01811fc223a44c019e7c53ee390a8be7a500c0659f7aed777581f15ae08501"
+    },
+    {
+      "path": "Project/Research/MND/README.md",
+      "bytes": 104,
+      "lines": 5,
+      "sha256": "6616c915d044ae1fb04d66f4dae87907dccc023dbfe4eed9519d527eb66e9041"
+    },
+    {
+      "path": "Project/Research/README.md",
+      "bytes": 475,
+      "lines": 14,
+      "sha256": "1b898906cf4b3ca6261411321c0f3b4178cf215b3679e8dc68163a1d98c20146"
+    },
+    {
+      "path": "Prompts.md",
+      "bytes": 2093,
+      "lines": 17,
+      "sha256": "43553ef46690479794a04ff0aa9b7c133ba1a2b358ab4a1a11dd22592eaa7960"
+    },
+    {
+      "path": "README.md",
+      "bytes": 204,
+      "lines": 12,
+      "sha256": "9943f40d3752e14e2005e44288a2fb3e7417039ac6f48f60fd9a380f9db3ea05"
+    },
+    {
+      "path": "Sim/README.md",
+      "bytes": 5712,
+      "lines": 123,
+      "sha256": "3ef8a2a8ce32b8c122a4974f69975c89833e8b024ba24f05dcb7e674de4efe96"
+    },
+    {
+      "path": "Sim/SIMULATION-VIDEO-NEXT.md",
+      "bytes": 1792,
+      "lines": 47,
+      "sha256": "756bfaf47a0b185e505e1f615427c56eeabc3e5b570e72e4f889be5701da592c"
+    },
+    {
+      "path": "Sim/Script.md",
+      "bytes": 9292,
+      "lines": 162,
+      "sha256": "076522ba41cf8ec7ef9177fb8a58ebe08dba80049d7e2c5833f9e206af74e7e3"
+    },
+    {
+      "path": "UseCases/Brainstorming/README.md",
+      "bytes": 46,
+      "lines": 4,
+      "sha256": "49173dbce85ab42c29cbcb3ff802d180d8e0fc93aa9d1b3bc96b4fca383798bb"
+    },
+    {
+      "path": "UseCases/README.md",
+      "bytes": 109,
+      "lines": 5,
+      "sha256": "2fa584b10213838f4531c4937bebaa56eeb5432a5f490efcb4fe8a36a60f3657"
+    }
+  ]
+}
