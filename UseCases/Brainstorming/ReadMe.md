@@ -1,4 +1,0 @@
-# Use Case: Brainstorming
-
-Participants:
-

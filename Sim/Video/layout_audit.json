@@ -1,0 +1,2246 @@
+{
+  "beat_count": 36,
+  "offscreen_count": 0,
+  "records": [
+    {
+      "scene": "GROpening",
+      "time": 12.332,
+      "text_bounds": [
+        {
+          "text": "GradientRelativity",
+          "left": -6.511111111111111,
+          "right": -1.3076931611111116,
+          "top": 3.4499999999999997,
+          "bottom": 2.98203125
+        },
+        {
+          "text": "RESEARCHHYPOTHESIS",
+          "left": 3.8111111111111113,
+          "right": 6.511111111111111,
+          "top": 3.34,
+          "bottom": 3.1586755092128955
+        },
+        {
+          "text": "Ahypothesisundertest",
+          "left": 0.17158202499999975,
+          "right": 4.428417975,
+          "top": 1.35,
+          "bottom": 0.04999999999999993
+        },
+        {
+          "text": "LIKE+SUBSCRIBE",
+          "left": -0.3730468750000002,
+          "right": 3.173046875,
+          "top": -0.858203125,
+          "bottom": -1.141796875
+        }
+      ],
+      "offscreen_text": []
+    },
+    {
+      "scene": "GROpening",
+      "time": 23.881999999999966,
+      "text_bounds": [
+        {
+          "text": "GradientRelativity",
+          "left": -6.511111111111111,
+          "right": -1.3076931611111116,
+          "top": 3.4499999999999997,
+          "bottom": 2.98203125
+        },
+        {
+          "text": "RESEARCHHYPOTHESIS",
+          "left": 3.8111111111111113,
+          "right": 6.511111111111111,
+          "top": 3.34,
+          "bottom": 3.1586755092128955
+        },
+        {
+          "text": "Ahypothesisundertest",
+          "left": 0.17158202499999975,
+          "right": 4.428417975,
+          "top": 1.35,
+          "bottom": 0.04999999999999993
+        },
+        {
+          "text": "LIKE+SUBSCRIBE",
+          "left": -0.3730468750000002,
+          "right": 3.173046875,
+          "top": -0.858203125,
+          "bottom": -1.141796875
+        },
+        {
+          "text": "github.com/AStarStarship/GradientRelativity",
+          "left": -4.47680665,
+          "right": 4.47680665,
+          "top": -1.780078125,
+          "bottom": -2.119921875
+        },
+        {
+          "text": "ByCaleMcCollough|Animationisnotexperimentalevidence",
+          "left": -4.913916025000001,
+          "right": 4.913916025000001,
+          "top": -2.2609375,
+          "bottom": -2.5390625
+        }
+      ],
+      "offscreen_text": []
+    },
+    {
+      "scene": "GRBoundaries",
+      "time": 12.260000000000002,
+      "text_bounds": [
+        {
+          "text": "Threedifferentknowledgelevels",
+          "left": -6.511111111111111,
+          "right": 2.2613986388888905,
+          "top": 3.4499999999999997,
+          "bottom": 2.98203125
+        },
+        {
+          "text": "SEPARATETHECLAIMS",
+          "left": 3.8111111111111113,
+          "right": 6.511111111111111,
+          "top": 3.34,
+          "bottom": 3.1586755092128955
+        },
+        {
+          "text": "ESTABLISHED",
+          "left": -5.43271485,
+          "right": -3.2672851499999993,
+          "top": 0.88071021803988,
+          "bottom": 0.6283664680398799
+        },
+        {
+          "text": "PhotonscarryenergyMattercanabsorb/scatterHorizonscancapturelight",
+          "left": -6.175,
+          "right": -2.5249999999999995,
+          "top": 0.3483664680398799,
+          "bottom": -0.48071021803987996
+        }
+      ],
+      "offscreen_text": []
+    },
+    {
+      "scene": "GRBoundaries",
+      "time": 22.443333333333307,
+      "text_bounds": [
+        {
+          "text": "Threedifferentknowledgelevels",
+          "left": -6.511111111111111,
+          "right": 2.2613986388888905,
+          "top": 3.4499999999999997,
+          "bottom": 2.98203125
+        },
+        {
+          "text": "SEPARATETHECLAIMS",
+          "left": 3.8111111111111113,
+          "right": 6.511111111111111,
+          "top": 3.34,
+          "bottom": 3.1586755092128955
+        },
+        {
+          "text": "ESTABLISHED",
+          "left": -5.43271485,
+          "right": -3.2672851499999993,
+          "top": 0.88071021803988,
+          "bottom": 0.6283664680398799
+        },
+        {
+          "text": "PhotonscarryenergyMattercanabsorb/scatterHorizonscancapturelight",
+          "left": -6.175,
+          "right": -2.5249999999999995,
+          "top": 0.3483664680398799,
+          "bottom": -0.48071021803987996
+        },
+        {
+          "text": "POSTULATE",
+          "left": -0.87890625,
+          "right": 0.87890625,
+          "top": 0.897283399352919,
+          "bottom": 0.6449396493529189
+        },
+        {
+          "text": "ElectroninternalcycleSpace-energy/mass-energyNoderivedmechanismyet",
+          "left": -1.825,
+          "right": 1.825,
+          "top": 0.36493964935291895,
+          "bottom": -0.49728339935291904
+        }
+      ],
+      "offscreen_text": []
+    },
+    {
+      "scene": "GRBoundaries",
+      "time": 35.36000000000011,
+      "text_bounds": [
+        {
+          "text": "Threedifferentknowledgelevels",
+          "left": -6.511111111111111,
+          "right": 2.2613986388888905,
+          "top": 3.4499999999999997,
+          "bottom": 2.98203125
+        },
+        {
+          "text": "SEPARATETHECLAIMS",
+          "left": 3.8111111111111113,
+          "right": 6.511111111111111,
+          "top": 3.34,
+          "bottom": 3.1586755092128955
+        },
+        {
+          "text": "ESTABLISHED",
+          "left": -5.43271485,
+          "right": -3.2672851499999993,
+          "top": 0.88071021803988,
+          "bottom": 0.6283664680398799
+        },
+        {
+          "text": "PhotonscarryenergyMattercanabsorb/scatterHorizonscancapturelight",
+          "left": -6.175,
+          "right": -2.5249999999999995,
+          "top": 0.3483664680398799,
+          "bottom": -0.48071021803987996
+        },
+        {
+          "text": "POSTULATE",
+          "left": -0.87890625,
+          "right": 0.87890625,
+          "top": 0.897283399352919,
+          "bottom": 0.6449396493529189
+        },
+        {
+          "text": "ElectroninternalcycleSpace-energy/mass-energyNoderivedmechanismyet",
+          "left": -1.825,
+          "right": 1.825,
+          "top": 0.36493964935291895,
+          "bottom": -0.49728339935291904
+        },
+        {
+          "text": "SPECULATIVE",
+          "left": 3.267675775,
+          "right": 5.4323242249999995,
+          "top": 0.9334970141238752,
+          "bottom": 0.6811532641238751
+        },
+        {
+          "text": "Expansion-to-centermapUnknowncenterstructureNotanobservedprofile",
+          "left": 2.5249999999999995,
+          "right": 6.175,
+          "top": 0.40115326412387503,
+          "bottom": -0.5334970141238751
+        }
+      ],
+      "offscreen_text": []
+    },
+    {
+      "scene": "GRSpaceBetweenMasses",
+      "time": 14.666666666666634,
+      "text_bounds": [
+        {
+          "text": "Betweenmasses:the100%space/EMendpoint",
+          "left": -6.511111111111111,
+          "right": 3.1888888888888887,
+          "top": 3.4499999999999997,
+          "bottom": 3.056153115849152
+        },
+        {
+          "text": "AUTHOR'SPOSTULATE",
+          "left": 3.822292761111111,
+          "right": 6.511111111111111,
+          "top": 3.34,
+          "bottom": 3.15015625
+        },
+        {
+          "text": "MASSA",
+          "left": -5.0675537,
+          "right": -3.9324463,
+          "top": -0.52890625,
+          "bottom": -0.77109375
+        },
+        {
+          "text": "MASSB",
+          "left": 3.9371338,
+          "right": 5.0628662,
+          "top": -0.52890625,
+          "bottom": -0.77109375
+        },
+        {
+          "text": "BETWEENMASSES:highestspace/EMenergy",
+          "left": -4.2237793,
+          "right": 4.2237793,
+          "top": 2.2843750000000003,
+          "bottom": 1.9156250000000001
+        },
+        {
+          "text": "100%oscillation|expansion=1",
+          "left": -3.5209228500000003,
+          "right": 3.5209228500000003,
+          "top": 1.593828125,
+          "bottom": 1.246171875
+        },
+        {
+          "text": "Qualitativepostulate;nopressurelaworspacetimemetricissolved",
+          "left": -5.6653076250000005,
+          "right": 5.6653076250000005,
+          "top": -2.26484375,
+          "bottom": -2.53515625
+        }
+      ],
+      "offscreen_text": []
+    },
+    {
+      "scene": "GRSpaceBetweenMasses",
+      "time": 34.60000000000004,
+      "text_bounds": [
+        {
+          "text": "Betweenmasses:the100%space/EMendpoint",
+          "left": -6.511111111111111,
+          "right": 3.1888888888888887,
+          "top": 3.4499999999999997,
+          "bottom": 3.056153115849152
+        },
+        {
+          "text": "AUTHOR'SPOSTULATE",
+          "left": 3.822292761111111,
+          "right": 6.511111111111111,
+          "top": 3.34,
+          "bottom": 3.15015625
+        },
+        {
+          "text": "MASSA",
+          "left": -5.0675537,
+          "right": -3.9324463,
+          "top": -0.52890625,
+          "bottom": -0.77109375
+        },
+        {
+          "text": "MASSB",
+          "left": 3.9371338,
+          "right": 5.0628662,
+          "top": -0.52890625,
+          "bottom": -0.77109375
+        },
+        {
+          "text": "BETWEENMASSES:highestspace/EMenergy",
+          "left": -4.2237793,
+          "right": 4.2237793,
+          "top": 2.2843750000000003,
+          "bottom": 1.9156250000000001
+        },
+        {
+          "text": "100%oscillation|expansion=1",
+          "left": -3.5209228500000003,
+          "right": 3.5209228500000003,
+          "top": 1.593828125,
+          "bottom": 1.246171875
+        },
+        {
+          "text": "Qualitativepostulate;nopressurelaworspacetimemetricissolved",
+          "left": -5.6653076250000005,
+          "right": 5.6653076250000005,
+          "top": -2.26484375,
+          "bottom": -2.53515625
+        },
+        {
+          "text": "positivepressure:spaceflowsINTOeachmass",
+          "left": -4.483398425,
+          "right": 4.483398425,
+          "top": -1.2874999999999999,
+          "bottom": -1.6125
+        }
+      ],
+      "offscreen_text": []
+    },
+    {
+      "scene": "GRSpaceBetweenMasses",
+      "time": 57.40000000000117,
+      "text_bounds": [
+        {
+          "text": "Betweenmasses:the100%space/EMendpoint",
+          "left": -6.511111111111111,
+          "right": 3.1888888888888887,
+          "top": 3.4499999999999997,
+          "bottom": 3.056153115849152
+        },
+        {
+          "text": "AUTHOR'SPOSTULATE",
+          "left": 3.822292761111111,
+          "right": 6.511111111111111,
+          "top": 3.34,
+          "bottom": 3.15015625
+        },
+        {
+          "text": "MASSA",
+          "left": -3.8675537,
+          "right": -2.7324463000000003,
+          "top": -0.52890625,
+          "bottom": -0.77109375
+        },
+        {
+          "text": "MASSB",
+          "left": 2.7371337999999996,
+          "right": 3.8628662,
+          "top": -0.52890625,
+          "bottom": -0.77109375
+        },
+        {
+          "text": "BETWEENMASSES:highestspace/EMenergy",
+          "left": -4.2237793,
+          "right": 4.2237793,
+          "top": 2.2843750000000003,
+          "bottom": 1.9156250000000001
+        },
+        {
+          "text": "100%oscillation|expansion=1",
+          "left": -3.5209228500000003,
+          "right": 3.5209228500000003,
+          "top": 1.593828125,
+          "bottom": 1.246171875
+        },
+        {
+          "text": "Qualitativepostulate;nopressurelaworspacetimemetricissolved",
+          "left": -5.6653076250000005,
+          "right": 5.6653076250000005,
+          "top": -2.26484375,
+          "bottom": -2.53515625
+        },
+        {
+          "text": "Interveningspacecontractsnotarepulsivepush",
+          "left": -2.7881347750000005,
+          "right": 2.7881347750000005,
+          "top": -1.3880468750000001,
+          "bottom": -2.191953125
+        }
+      ],
+      "offscreen_text": []
+    },
+    {
+      "scene": "GRSpaceBetweenMasses",
+      "time": 77.00000000000075,
+      "text_bounds": [
+        {
+          "text": "Betweenmasses:the100%space/EMendpoint",
+          "left": -6.511111111111111,
+          "right": 3.1888888888888887,
+          "top": 3.4499999999999997,
+          "bottom": 3.056153115849152
+        },
+        {
+          "text": "AUTHOR'SPOSTULATE",
+          "left": 3.822292761111111,
+          "right": 6.511111111111111,
+          "top": 3.34,
+          "bottom": 3.15015625
+        },
+        {
+          "text": "BETWEENMASSES",
+          "left": -4.634521475,
+          "right": -1.8654785249999999,
+          "top": 1.0173437500000002,
+          "bottom": 0.765
+        },
+        {
+          "text": "100%space/EMMaximumexpansionendpoint",
+          "left": -5.61989745,
+          "right": -0.8801025500000002,
+          "top": 0.485,
+          "bottom": -0.21734375000000006
+        },
+        {
+          "text": "BLACK-HOLECENTER",
+          "left": 1.554296875,
+          "right": 4.945703125,
+          "top": 0.9972335112992297,
+          "bottom": 0.7448897612992296
+        },
+        {
+          "text": "0%space/EMMassstorageisNOTzerototalE",
+          "left": 0.5,
+          "right": 6.0,
+          "top": 0.46488976129922954,
+          "bottom": -0.1972335112992296
+        },
+        {
+          "text": "Spatialgradient\u2260internalphasecycle;theirconnectionremainstobederived",
+          "left": -6.35,
+          "right": 6.35,
+          "top": -2.268884752085139,
+          "bottom": -2.531115247914861
+        }
+      ],
+      "offscreen_text": []
+    },
+    {
+      "scene": "GRIncomingPhotons",
+      "time": 14.804000000000002,
+      "text_bounds": [
+        {
+          "text": "Incomingphotons:whattransfersenergy?",
+          "left": -6.511111111111111,
+          "right": 3.1888888888888887,
+          "top": 3.4499999999999997,
+          "bottom": 3.0358752258703787
+        },
+        {
+          "text": "BASELINE\u2192NEWCLAIM",
+          "left": 3.8111111111111113,
+          "right": 6.511111111111111,
+          "top": 3.34,
+          "bottom": 3.167978698518075
+        },
+        {
+          "text": "interiornotimaged",
+          "left": -3.6518554749999996,
+          "right": -1.9481445249999998,
+          "top": 0.638671875,
+          "bottom": -0.03867187500000002
+        },
+        {
+          "text": "schematichorizon",
+          "left": -4.40390625,
+          "right": -1.1960937499999997,
+          "top": -1.4961718750000002,
+          "bottom": -1.743828125
+        },
+        {
+          "text": "CAUSALTRAPPING",
+          "left": 1.61552735,
+          "right": 4.58447265,
+          "top": 0.9200781250000001,
+          "bottom": 0.667734375
+        },
+        {
+          "text": "Notthesameaselectronabsorption",
+          "left": 1.375048825,
+          "right": 4.824951175000001,
+          "top": 0.38773437499999996,
+          "bottom": -0.32007812500000005
+        }
+      ],
+      "offscreen_text": []
+    },
+    {
+      "scene": "GRIncomingPhotons",
+      "time": 31.57066666666662,
+      "text_bounds": [
+        {
+          "text": "Incomingphotons:whattransfersenergy?",
+          "left": -6.511111111111111,
+          "right": 3.1888888888888887,
+          "top": 3.4499999999999997,
+          "bottom": 3.0358752258703787
+        },
+        {
+          "text": "BASELINE\u2192NEWCLAIM",
+          "left": 3.8111111111111113,
+          "right": 6.511111111111111,
+          "top": 3.34,
+          "bottom": 3.167978698518075
+        },
+        {
+          "text": "Separatelocalinteractiondiagram",
+          "left": -3.3925293000000005,
+          "right": 3.3925293000000005,
+          "top": 2.4636718749999997,
+          "bottom": 2.136328125
+        },
+        {
+          "text": "BOUNDSYSTEMallowedexcitation",
+          "left": -5.7063232500000005,
+          "right": -2.2936767499999995,
+          "top": -1.31328125,
+          "bottom": -1.9867187499999999
+        },
+        {
+          "text": "FREEELECTRON",
+          "left": 1.8701171999999997,
+          "right": 4.4298828,
+          "top": 0.7208593750000001,
+          "bottom": 0.468515625
+        },
+        {
+          "text": "Scattering+recoilNotlone-photonabsorption",
+          "left": 0.7828369249999998,
+          "right": 5.517163075,
+          "top": 0.188515625,
+          "bottom": -0.5208593750000001
+        }
+      ],
+      "offscreen_text": []
+    },
+    {
+      "scene": "GRIncomingPhotons",
+      "time": 46.49466666666662,
+      "text_bounds": [
+        {
+          "text": "Incomingphotons:whattransfersenergy?",
+          "left": -6.511111111111111,
+          "right": 3.1888888888888887,
+          "top": 3.4499999999999997,
+          "bottom": 3.0358752258703787
+        },
+        {
+          "text": "BASELINE\u2192NEWCLAIM",
+          "left": 3.8111111111111113,
+          "right": 6.511111111111111,
+          "top": 3.34,
+          "bottom": 3.167978698518075
+        },
+        {
+          "text": "INPUT",
+          "left": -4.98027345,
+          "right": -4.01972655,
+          "top": 0.7884375000000001,
+          "bottom": 0.54078125
+        },
+        {
+          "text": "Photonenergy+momentum",
+          "left": -5.68291015,
+          "right": -3.31708985,
+          "top": 0.26078125,
+          "bottom": -0.38843750000000016
+        },
+        {
+          "text": "OPENSTEP",
+          "left": -0.888671875,
+          "right": 0.888671875,
+          "top": 0.8032812500000002,
+          "bottom": 0.5509375000000001
+        },
+        {
+          "text": "Newfieldcoupling?Recoil/losses?",
+          "left": -1.722607425,
+          "right": 1.722607425,
+          "top": 0.2709375,
+          "bottom": -0.4032812500000001
+        },
+        {
+          "text": "POSTULATE",
+          "left": 3.62109375,
+          "right": 5.37890625,
+          "top": 0.8208593750000002,
+          "bottom": 0.5685156250000001
+        },
+        {
+          "text": "Internalspace\u2194masscycle",
+          "left": 2.8685791,
+          "right": 6.1314209,
+          "top": 0.288515625,
+          "bottom": -0.4208593750000001
+        },
+        {
+          "text": "Capture\u2260absorption\u2260aderivedspace-to-massmechanism",
+          "left": -4.66657715,
+          "right": 4.66657715,
+          "top": -2.265625,
+          "bottom": -2.534375
+        }
+      ],
+      "offscreen_text": []
+    },
+    {
+      "scene": "GRGalaxyPaths",
+      "time": 16.399999999999963,
+      "text_bounds": [
+        {
+          "text": "Electron-to-electrontransferandpossiblepaths",
+          "left": -6.511111111111111,
+          "right": 3.1888888888888887,
+          "top": 3.4499999999999997,
+          "bottom": 3.105334877707692
+        },
+        {
+          "text": "PROPOSEDTRANSPORT",
+          "left": 3.8316677611111114,
+          "right": 6.511111111111111,
+          "top": 3.34,
+          "bottom": 3.15015625
+        },
+        {
+          "text": "sourceelectron",
+          "left": -5.995434575,
+          "right": -4.504565425,
+          "top": -0.342578125,
+          "bottom": -0.9574218750000001
+        },
+        {
+          "text": "possiblereceivers",
+          "left": 3.66503905,
+          "right": 5.33496095,
+          "top": -1.209765625,
+          "bottom": -1.8902343750000001
+        },
+        {
+          "text": "Anyelectron\u2192anyotherelectron?",
+          "left": -3.8171875,
+          "right": 3.8171875,
+          "top": 2.2824218750000003,
+          "bottom": 1.9175781250000001
+        },
+        {
+          "text": "Author'sproposedtransferpicture;notaninstantaneousorcomputedsignal",
+          "left": -6.255712900000001,
+          "right": 6.255712900000001,
+          "top": -2.2640625,
+          "bottom": -2.5359374999999997
+        }
+      ],
+      "offscreen_text": []
+    },
+    {
+      "scene": "GRGalaxyPaths",
+      "time": 32.13333333333325,
+      "text_bounds": [
+        {
+          "text": "Electron-to-electrontransferandpossiblepaths",
+          "left": -6.511111111111111,
+          "right": 3.1888888888888887,
+          "top": 3.4499999999999997,
+          "bottom": 3.105334877707692
+        },
+        {
+          "text": "PROPOSEDTRANSPORT",
+          "left": 3.8316677611111114,
+          "right": 6.511111111111111,
+          "top": 3.34,
+          "bottom": 3.15015625
+        },
+        {
+          "text": "sourceelectron",
+          "left": -5.995434575,
+          "right": -4.504565425,
+          "top": -0.342578125,
+          "bottom": -0.9574218750000001
+        },
+        {
+          "text": "possiblereceivers",
+          "left": 3.66503905,
+          "right": 5.33496095,
+          "top": -1.209765625,
+          "bottom": -1.8902343750000001
+        },
+        {
+          "text": "\u221epossiblepaths|least-actioninterpretation",
+          "left": -4.99782715,
+          "right": 4.99782715,
+          "top": 2.273828125,
+          "bottom": 1.926171875
+        },
+        {
+          "text": "Finiteschematicfan.Highlightedrouteisillustrated,notcalculated.",
+          "left": -5.887646475,
+          "right": 5.887646475,
+          "top": -2.2640625,
+          "bottom": -2.5359374999999997
+        }
+      ],
+      "offscreen_text": []
+    },
+    {
+      "scene": "GRGalaxyPaths",
+      "time": 52.13333333333424,
+      "text_bounds": [
+        {
+          "text": "Electron-to-electrontransferandpossiblepaths",
+          "left": -6.511111111111111,
+          "right": 3.1888888888888887,
+          "top": 3.4499999999999997,
+          "bottom": 3.105334877707692
+        },
+        {
+          "text": "PROPOSEDTRANSPORT",
+          "left": 3.8316677611111114,
+          "right": 6.511111111111111,
+          "top": 3.34,
+          "bottom": 3.15015625
+        },
+        {
+          "text": "Assumedcentralelectronconcentration",
+          "left": -4.1119384750000005,
+          "right": 4.1119384750000005,
+          "top": 2.240625,
+          "bottom": 1.959375
+        },
+        {
+          "text": "notagalaxycensus",
+          "left": 1.1820800749999998,
+          "right": 4.617919925,
+          "top": -1.120390625,
+          "bottom": -1.419609375
+        },
+        {
+          "text": "Surroundingstars\u2260interiorelectrons.Receivercountsalonedonotderiveflux.",
+          "left": -6.35,
+          "right": 6.35,
+          "top": -2.2717469529889724,
+          "bottom": -2.5282530470110274
+        }
+      ],
+      "offscreen_text": []
+    },
+    {
+      "scene": "GRGalaxyPaths",
+      "time": 75.80000000000082,
+      "text_bounds": [
+        {
+          "text": "Electron-to-electrontransferandpossiblepaths",
+          "left": -6.511111111111111,
+          "right": 3.1888888888888887,
+          "top": 3.4499999999999997,
+          "bottom": 3.105334877707692
+        },
+        {
+          "text": "PROPOSEDTRANSPORT",
+          "left": 3.8316677611111114,
+          "right": 6.511111111111111,
+          "top": 3.34,
+          "bottom": 3.15015625
+        },
+        {
+          "text": "STANDARDAMPLITUDESUM",
+          "left": -5.439990225000001,
+          "right": -1.0600097749999997,
+          "top": 1.0415625,
+          "bottom": 0.78921875
+        },
+        {
+          "text": "A=\u222bD[path]exp(iS/\u210f)P=|A|\u00b2;interferencematters",
+          "left": -5.9912841750000005,
+          "right": -0.5087158249999999,
+          "top": 0.50921875,
+          "bottom": -0.2415625
+        },
+        {
+          "text": "NEWTRANSPORTLAW",
+          "left": 1.5539062499999998,
+          "right": 4.94609375,
+          "top": 1.0208593750000001,
+          "bottom": 0.768515625
+        },
+        {
+          "text": "Source/receivercoupling?Recoil+causalresponse?",
+          "left": 0.7916504,
+          "right": 5.7083496,
+          "top": 0.488515625,
+          "bottom": -0.22085937500000008
+        },
+        {
+          "text": "Stationaryaction\u2260sequentialtrialroutes;nopropagationcalculationshown",
+          "left": -6.35,
+          "right": 6.35,
+          "top": -2.2654837090990707,
+          "bottom": -2.534516290900929
+        }
+      ],
+      "offscreen_text": []
+    },
+    {
+      "scene": "GRElectronCycle",
+      "time": 17.59999999999996,
+      "text_bounds": [
+        {
+          "text": "Theproposed360-degree+360-degreecycle",
+          "left": -6.511111111111111,
+          "right": 3.1888888888888887,
+          "top": 3.45,
+          "bottom": 3.0773189618982295
+        },
+        {
+          "text": "ILLUSTRATIVEPOSTULATE",
+          "left": 3.8111111111111113,
+          "right": 6.511111111111111,
+          "top": 3.34,
+          "bottom": 3.183317064583467
+        },
+        {
+          "text": "configurationcartoonnotaparticletrajectory",
+          "left": -5.675000000000001,
+          "right": -1.3249999999999997,
+          "top": -1.462109375,
+          "bottom": -2.137890625
+        },
+        {
+          "text": "SPACEENERGY\u25cb",
+          "left": 1.506542975,
+          "right": 4.493457025,
+          "top": 1.600859375,
+          "bottom": 1.339140625
+        },
+        {
+          "text": "MASSENERGY\u25a1",
+          "left": 1.5022460999999998,
+          "right": 4.4977539,
+          "top": 0.320078125,
+          "bottom": 0.059921874999999986
+        },
+        {
+          "text": "0\u00b0|100%space",
+          "left": 0.578125,
+          "right": 4.821875,
+          "top": -1.1625,
+          "bottom": -1.5375
+        },
+        {
+          "text": "\u03c3=[1+cos(\u03b8/2)]/2|illustrativeinterpolation,NOTderived",
+          "left": -5.663745125,
+          "right": 5.663745125,
+          "top": -2.2609375,
+          "bottom": -2.5390625
+        }
+      ],
+      "offscreen_text": []
+    },
+    {
+      "scene": "GRElectronCycle",
+      "time": 31.333333333333243,
+      "text_bounds": [
+        {
+          "text": "Theproposed360-degree+360-degreecycle",
+          "left": -6.511111111111111,
+          "right": 3.1888888888888887,
+          "top": 3.45,
+          "bottom": 3.0773189618982295
+        },
+        {
+          "text": "ILLUSTRATIVEPOSTULATE",
+          "left": 3.8111111111111113,
+          "right": 6.511111111111111,
+          "top": 3.34,
+          "bottom": 3.183317064583467
+        },
+        {
+          "text": "configurationcartoonnotaparticletrajectory",
+          "left": -5.675000000000001,
+          "right": -1.3249999999999997,
+          "top": -1.462109375,
+          "bottom": -2.137890625
+        },
+        {
+          "text": "SPACEENERGY\u25cb",
+          "left": 1.506542975,
+          "right": 4.493457025,
+          "top": 1.600859375,
+          "bottom": 1.339140625
+        },
+        {
+          "text": "MASSENERGY\u25a1",
+          "left": 1.5022460999999998,
+          "right": 4.4977539,
+          "top": 0.320078125,
+          "bottom": 0.059921874999999986
+        },
+        {
+          "text": "360\u00b0|100%mass",
+          "left": 0.69921875,
+          "right": 4.70078125,
+          "top": -1.1625,
+          "bottom": -1.5375
+        },
+        {
+          "text": "\u03c3=[1+cos(\u03b8/2)]/2|illustrativeinterpolation,NOTderived",
+          "left": -5.663745125,
+          "right": 5.663745125,
+          "top": -2.2609375,
+          "bottom": -2.5390625
+        }
+      ],
+      "offscreen_text": []
+    },
+    {
+      "scene": "GRElectronCycle",
+      "time": 50.40000000000082,
+      "text_bounds": [
+        {
+          "text": "Theproposed360-degree+360-degreecycle",
+          "left": -6.511111111111111,
+          "right": 3.1888888888888887,
+          "top": 3.45,
+          "bottom": 3.0773189618982295
+        },
+        {
+          "text": "ILLUSTRATIVEPOSTULATE",
+          "left": 3.8111111111111113,
+          "right": 6.511111111111111,
+          "top": 3.34,
+          "bottom": 3.183317064583467
+        },
+        {
+          "text": "configurationcartoonnotaparticletrajectory",
+          "left": -5.675000000000001,
+          "right": -1.3249999999999997,
+          "top": -1.462109375,
+          "bottom": -2.137890625
+        },
+        {
+          "text": "SPACEENERGY\u25cb",
+          "left": 1.506542975,
+          "right": 4.493457025,
+          "top": 1.600859375,
+          "bottom": 1.339140625
+        },
+        {
+          "text": "MASSENERGY\u25a1",
+          "left": 1.5022460999999998,
+          "right": 4.4977539,
+          "top": 0.320078125,
+          "bottom": 0.059921874999999986
+        },
+        {
+          "text": "720\u00b0|100%space",
+          "left": 0.5789062500000002,
+          "right": 4.82109375,
+          "top": -1.1625,
+          "bottom": -1.5375
+        },
+        {
+          "text": "\u03c3=[1+cos(\u03b8/2)]/2|illustrativeinterpolation,NOTderived",
+          "left": -5.663745125,
+          "right": 5.663745125,
+          "top": -2.2609375,
+          "bottom": -2.5390625
+        }
+      ],
+      "offscreen_text": []
+    },
+    {
+      "scene": "GRElectronCycle",
+      "time": 60.86666666666801,
+      "text_bounds": [
+        {
+          "text": "Theproposed360-degree+360-degreecycle",
+          "left": -6.511111111111111,
+          "right": 3.1888888888888887,
+          "top": 3.45,
+          "bottom": 3.0773189618982295
+        },
+        {
+          "text": "ILLUSTRATIVEPOSTULATE",
+          "left": 3.8111111111111113,
+          "right": 6.511111111111111,
+          "top": 3.34,
+          "bottom": 3.183317064583467
+        },
+        {
+          "text": "configurationcartoonnotaparticletrajectory",
+          "left": -5.675000000000001,
+          "right": -1.3249999999999997,
+          "top": -1.462109375,
+          "bottom": -2.137890625
+        },
+        {
+          "text": "SPACEENERGY\u25cb",
+          "left": 1.506542975,
+          "right": 4.493457025,
+          "top": 1.600859375,
+          "bottom": 1.339140625
+        },
+        {
+          "text": "MASSENERGY\u25a1",
+          "left": 1.5022460999999998,
+          "right": 4.4977539,
+          "top": 0.320078125,
+          "bottom": 0.059921874999999986
+        },
+        {
+          "text": "720\u00b0|100%space",
+          "left": 0.5789062500000002,
+          "right": 4.82109375,
+          "top": -1.1625,
+          "bottom": -1.5375
+        },
+        {
+          "text": "Charge:-ethroughout?Deriveaconservedcurrent.",
+          "left": 0.15239257499999947,
+          "right": 5.247607425000001,
+          "top": -1.6105468749999998,
+          "bottom": -2.289453125
+        }
+      ],
+      "offscreen_text": []
+    },
+    {
+      "scene": "GRSpinAndMass",
+      "time": 16.16666666666663,
+      "text_bounds": [
+        {
+          "text": "Twoturnsarenotaderivationofspin",
+          "left": -6.511111111111111,
+          "right": 3.1888888888888887,
+          "top": 3.4499999999999997,
+          "bottom": 3.014736892940927
+        },
+        {
+          "text": "STANDARD\u2260CARTOON",
+          "left": 3.8355740111111114,
+          "right": 6.511111111111111,
+          "top": 3.34,
+          "bottom": 3.15015625
+        },
+        {
+          "text": "onespinoramplitudephaseexp(-i\u03b8/2)",
+          "left": -5.42004395,
+          "right": -1.7799560499999998,
+          "top": -1.3953125,
+          "bottom": -2.1046875
+        },
+        {
+          "text": "STANDARDSPINORLAW",
+          "left": 0.8253417999999997,
+          "right": 4.7746582,
+          "top": 1.5315625000000002,
+          "bottom": 1.2690625
+        },
+        {
+          "text": "U(360\u00b0)=-I",
+          "left": 1.1345214749999997,
+          "right": 4.465478525,
+          "top": 0.7890625000000001,
+          "bottom": 0.36875000000000013
+        },
+        {
+          "text": "U(720\u00b0)=+I",
+          "left": 1.1345214749999997,
+          "right": 4.465478525,
+          "top": -0.11124999999999985,
+          "bottom": -0.5315625
+        },
+        {
+          "text": "Globalsign:samephysicalray.Relativesign:interferometrycandetectit.",
+          "left": -6.314721675,
+          "right": 6.314721675,
+          "top": -2.2640625,
+          "bottom": -2.5359374999999997
+        }
+      ],
+      "offscreen_text": []
+    },
+    {
+      "scene": "GRSpinAndMass",
+      "time": 28.699999999999918,
+      "text_bounds": [
+        {
+          "text": "Twoturnsarenotaderivationofspin",
+          "left": -6.511111111111111,
+          "right": 3.1888888888888887,
+          "top": 3.4499999999999997,
+          "bottom": 3.014736892940927
+        },
+        {
+          "text": "STANDARD\u2260CARTOON",
+          "left": 3.8355740111111114,
+          "right": 6.511111111111111,
+          "top": 3.34,
+          "bottom": 3.15015625
+        },
+        {
+          "text": "STANDARDSPINORLAW",
+          "left": 0.8253417999999997,
+          "right": 4.7746582,
+          "top": 1.5315625000000002,
+          "bottom": 1.2690625
+        },
+        {
+          "text": "U(360\u00b0)=-I",
+          "left": 1.1345214749999997,
+          "right": 4.465478525,
+          "top": 0.7890625000000001,
+          "bottom": 0.36875000000000013
+        },
+        {
+          "text": "U(720\u00b0)=+I",
+          "left": 1.1345214749999997,
+          "right": 4.465478525,
+          "top": -0.11124999999999985,
+          "bottom": -0.5315625
+        },
+        {
+          "text": "TwoturnsalonedoNOTderive:spin-1/2\u2022magneticmoment\u2022Fermistatistics",
+          "left": -5.3046875,
+          "right": 5.3046875,
+          "top": -1.5296874999999999,
+          "bottom": -2.3703125
+        }
+      ],
+      "offscreen_text": []
+    },
+    {
+      "scene": "GRSpinAndMass",
+      "time": 46.52799999999991,
+      "text_bounds": [
+        {
+          "text": "Twoturnsarenotaderivationofspin",
+          "left": -6.511111111111111,
+          "right": 3.1888888888888887,
+          "top": 3.4499999999999997,
+          "bottom": 3.014736892940927
+        },
+        {
+          "text": "STANDARD\u2260CARTOON",
+          "left": 3.8355740111111114,
+          "right": 6.511111111111111,
+          "top": 3.34,
+          "bottom": 3.15015625
+        },
+        {
+          "text": "MEASUREDRESTENERGY",
+          "left": -5.249072275,
+          "right": -1.250927725,
+          "top": 0.9484182602154337,
+          "bottom": 0.6960745102154337
+        },
+        {
+          "text": "m\u2091c\u00b2\u2248511keVObservablemassneedsadefinition",
+          "left": -5.949999999999999,
+          "right": -0.5500000000000003,
+          "top": 0.4160745102154337,
+          "bottom": -0.1484182602154337
+        },
+        {
+          "text": "ASSUMEDINTERNALSPLIT",
+          "left": 1.0525878999999998,
+          "right": 5.4474121,
+          "top": 0.9895850803105857,
+          "bottom": 0.7372413303105856
+        },
+        {
+          "text": "E\u209b+E\u2098=E\u2080Afixedsumneednotchangemass",
+          "left": 0.5500000000000003,
+          "right": 5.949999999999999,
+          "top": 0.4572413303105856,
+          "bottom": -0.18958508031058563
+        },
+        {
+          "text": "NISTCODATArestenergy|Internalrepartitionisnotameasuredmassoscillation",
+          "left": -6.35,
+          "right": 6.35,
+          "top": -2.2692085165470957,
+          "bottom": -2.530791483452904
+        }
+      ],
+      "offscreen_text": []
+    },
+    {
+      "scene": "GRGradientAndCenter",
+      "time": 17.533333333333292,
+      "text_bounds": [
+        {
+          "text": "Theproposedcenter:slow,store,andrestart",
+          "left": -6.511111111111111,
+          "right": 3.1888888888888887,
+          "top": 3.4499999999999997,
+          "bottom": 3.101781509862915
+        },
+        {
+          "text": "CENTER:SPECULATIVE",
+          "left": 3.8111111111111113,
+          "right": 6.511111111111111,
+          "top": 3.34,
+          "bottom": 3.1586755092128955
+        },
+        {
+          "text": "proposedcenter",
+          "left": -4.721728525,
+          "right": -1.8782714749999998,
+          "top": -1.3653125,
+          "bottom": -1.6746875
+        },
+        {
+          "text": "Inwardgradient:space/EM1\u21920",
+          "left": -3.5248291000000003,
+          "right": 3.5248291000000003,
+          "top": 2.31875,
+          "bottom": 1.98125
+        },
+        {
+          "text": "SPACE/EMOSCILLATION",
+          "left": 1.0562744249999998,
+          "right": 5.243725575,
+          "top": 1.47359375,
+          "bottom": 1.2064062500000001
+        },
+        {
+          "text": "MASSSTORAGE(schematic)",
+          "left": 0.8819091749999997,
+          "right": 5.418090825,
+          "top": 0.282578125,
+          "bottom": -0.0025781249999999867
+        },
+        {
+          "text": "slowingisaproposedinternalmotionvariable",
+          "left": 0.9652099499999998,
+          "right": 5.3347900500000005,
+          "top": -1.144609375,
+          "bottom": -1.795390625
+        },
+        {
+          "text": "Imposedanimation,notdynamics.Barsarenotameasuredenergybudget.",
+          "left": -5.889990225,
+          "right": 5.889990225,
+          "top": -2.26484375,
+          "bottom": -2.53515625
+        }
+      ],
+      "offscreen_text": []
+    },
+    {
+      "scene": "GRGradientAndCenter",
+      "time": 37.000000000000156,
+      "text_bounds": [
+        {
+          "text": "Theproposedcenter:slow,store,andrestart",
+          "left": -6.511111111111111,
+          "right": 3.1888888888888887,
+          "top": 3.4499999999999997,
+          "bottom": 3.101781509862915
+        },
+        {
+          "text": "CENTER:SPECULATIVE",
+          "left": 3.8111111111111113,
+          "right": 6.511111111111111,
+          "top": 3.34,
+          "bottom": 3.1586755092128955
+        },
+        {
+          "text": "proposedcenter",
+          "left": -4.721728525,
+          "right": -1.8782714749999998,
+          "top": -1.3653125,
+          "bottom": -1.6746875
+        },
+        {
+          "text": "Inwardgradient:space/EM1\u21920",
+          "left": -3.5248291000000003,
+          "right": 3.5248291000000003,
+          "top": 2.31875,
+          "bottom": 1.98125
+        },
+        {
+          "text": "SPACE/EMOSCILLATION",
+          "left": 1.0562744249999998,
+          "right": 5.243725575,
+          "top": 1.47359375,
+          "bottom": 1.2064062500000001
+        },
+        {
+          "text": "MASSSTORAGE(schematic)",
+          "left": 0.8819091749999997,
+          "right": 5.418090825,
+          "top": 0.282578125,
+          "bottom": -0.0025781249999999867
+        },
+        {
+          "text": "EMoscillation\u21920energystoredasmass",
+          "left": 1.1559570250000002,
+          "right": 5.1440429750000005,
+          "top": -1.097734375,
+          "bottom": -1.842265625
+        },
+        {
+          "text": "Imposedanimation,notdynamics.Barsarenotameasuredenergybudget.",
+          "left": -5.889990225,
+          "right": 5.889990225,
+          "top": -2.26484375,
+          "bottom": -2.53515625
+        }
+      ],
+      "offscreen_text": []
+    },
+    {
+      "scene": "GRGradientAndCenter",
+      "time": 57.3333333333345,
+      "text_bounds": [
+        {
+          "text": "Theproposedcenter:slow,store,andrestart",
+          "left": -6.511111111111111,
+          "right": 3.1888888888888887,
+          "top": 3.4499999999999997,
+          "bottom": 3.101781509862915
+        },
+        {
+          "text": "CENTER:SPECULATIVE",
+          "left": 3.8111111111111113,
+          "right": 6.511111111111111,
+          "top": 3.34,
+          "bottom": 3.1586755092128955
+        },
+        {
+          "text": "proposedcenter",
+          "left": -4.721728525,
+          "right": -1.8782714749999998,
+          "top": -1.3653125,
+          "bottom": -1.6746875
+        },
+        {
+          "text": "Inwardgradient:space/EM1\u21920",
+          "left": -3.5248291000000003,
+          "right": 3.5248291000000003,
+          "top": 2.31875,
+          "bottom": 1.98125
+        },
+        {
+          "text": "SPACE/EMOSCILLATION",
+          "left": 1.0562744249999998,
+          "right": 5.243725575,
+          "top": 1.47359375,
+          "bottom": 1.2064062500000001
+        },
+        {
+          "text": "MASSSTORAGE(schematic)",
+          "left": 0.8819091749999997,
+          "right": 5.418090825,
+          "top": 0.282578125,
+          "bottom": -0.0025781249999999867
+        },
+        {
+          "text": "Incominghit\u2192restartspacecomponentreturns",
+          "left": 0.9694824250000003,
+          "right": 5.330517575,
+          "top": -1.0996875,
+          "bottom": -1.8403125
+        },
+        {
+          "text": "Imposedanimation,notdynamics.Barsarenotameasuredenergybudget.",
+          "left": -5.889990225,
+          "right": 5.889990225,
+          "top": -2.26484375,
+          "bottom": -2.53515625
+        }
+      ],
+      "offscreen_text": []
+    },
+    {
+      "scene": "GRGradientAndCenter",
+      "time": 79.00000000000064,
+      "text_bounds": [
+        {
+          "text": "Theproposedcenter:slow,store,andrestart",
+          "left": -6.511111111111111,
+          "right": 3.1888888888888887,
+          "top": 3.4499999999999997,
+          "bottom": 3.101781509862915
+        },
+        {
+          "text": "CENTER:SPECULATIVE",
+          "left": 3.8111111111111113,
+          "right": 6.511111111111111,
+          "top": 3.34,
+          "bottom": 3.1586755092128955
+        },
+        {
+          "text": "proposedcenter",
+          "left": -4.721728525,
+          "right": -1.8782714749999998,
+          "top": -1.3653125,
+          "bottom": -1.6746875
+        },
+        {
+          "text": "Inwardgradient:space/EM1\u21920",
+          "left": -3.5248291000000003,
+          "right": 3.5248291000000003,
+          "top": 2.31875,
+          "bottom": 1.98125
+        },
+        {
+          "text": "UNRESOLVEDCENTERDYNAMICS",
+          "left": 0.5598144499999993,
+          "right": 5.7401855500000005,
+          "top": 0.9599521052150187,
+          "bottom": 0.7076083552150186
+        },
+        {
+          "text": "Whichlocalmotion/clock?Charge+recoil+losses?Accessibleexteriorprediction?",
+          "left": 0.3999999999999999,
+          "right": 5.9,
+          "top": 0.4276083552150186,
+          "bottom": -0.6599521052150187
+        },
+        {
+          "text": "ZeroEMactivity\u2260zerototalEorlocalc.Interiormechanismunobserved.",
+          "left": -6.143969725,
+          "right": 6.143969725,
+          "top": -2.26484375,
+          "bottom": -2.53515625
+        }
+      ],
+      "offscreen_text": []
+    },
+    {
+      "scene": "GRLightSpeedConflict",
+      "time": 14.468000000000002,
+      "text_bounds": [
+        {
+          "text": "Onedefinition,twoincompatiblelight-speedlaws",
+          "left": -6.511111111111111,
+          "right": 3.1888888888888887,
+          "top": 3.45,
+          "bottom": 3.112838739627459
+        },
+        {
+          "text": "UNRESOLVEDEQUATIONS",
+          "left": 3.8111111111111113,
+          "right": 6.511111111111111,
+          "top": 3.34,
+          "bottom": 3.141578059560916
+        },
+        {
+          "text": "\u03c3=SPACE-energyfraction",
+          "left": -4.525585925,
+          "right": 0.02558592500000012,
+          "top": -2.105,
+          "bottom": -2.40265625
+        },
+        {
+          "text": "u=C/c\u2080",
+          "left": -5.7816162,
+          "right": -4.0183838000000005,
+          "top": 2.37734375,
+          "bottom": 2.12265625
+        },
+        {
+          "text": "0",
+          "left": -5.658984374999999,
+          "right": -5.541015625,
+          "top": -1.7549999999999997,
+          "bottom": -1.9448437499999998
+        },
+        {
+          "text": "0.5",
+          "left": -2.40756835,
+          "right": -1.99243165,
+          "top": -1.7549999999999997,
+          "bottom": -1.9448437499999998
+        },
+        {
+          "text": "1",
+          "left": 1.1480468749999997,
+          "right": 1.2519531249999998,
+          "top": -1.7549999999999997,
+          "bottom": -1.9370312499999998
+        },
+        {
+          "text": "1",
+          "left": -5.85390625,
+          "right": -5.75,
+          "top": -0.35065104166666666,
+          "bottom": -0.5326822916666667
+        },
+        {
+          "text": "2",
+          "left": -5.860156249999999,
+          "right": -5.75,
+          "top": 0.8346354166666665,
+          "bottom": 0.6486979166666664
+        },
+        {
+          "text": "3",
+          "left": -5.865625,
+          "right": -5.75,
+          "top": 2.019921875,
+          "bottom": 1.830078125
+        },
+        {
+          "text": "P1/SOLID",
+          "left": 3.0165527250000004,
+          "right": 5.383447275,
+          "top": 1.7345312500000003,
+          "bottom": 1.4556250000000002
+        },
+        {
+          "text": "u\u00b2=\u03c3/(1-\u03c3)Divergesas\u03c3\u21921",
+          "left": 2.65703125,
+          "right": 5.74296875,
+          "top": 1.1756250000000001,
+          "bottom": 0.4654687499999999
+        }
+      ],
+      "offscreen_text": []
+    },
+    {
+      "scene": "GRLightSpeedConflict",
+      "time": 25.93466666666663,
+      "text_bounds": [
+        {
+          "text": "Onedefinition,twoincompatiblelight-speedlaws",
+          "left": -6.511111111111111,
+          "right": 3.1888888888888887,
+          "top": 3.45,
+          "bottom": 3.112838739627459
+        },
+        {
+          "text": "UNRESOLVEDEQUATIONS",
+          "left": 3.8111111111111113,
+          "right": 6.511111111111111,
+          "top": 3.34,
+          "bottom": 3.141578059560916
+        },
+        {
+          "text": "\u03c3=SPACE-energyfraction",
+          "left": -4.525585925,
+          "right": 0.02558592500000012,
+          "top": -2.105,
+          "bottom": -2.40265625
+        },
+        {
+          "text": "u=C/c\u2080",
+          "left": -5.7816162,
+          "right": -4.0183838000000005,
+          "top": 2.37734375,
+          "bottom": 2.12265625
+        },
+        {
+          "text": "0",
+          "left": -5.658984374999999,
+          "right": -5.541015625,
+          "top": -1.7549999999999997,
+          "bottom": -1.9448437499999998
+        },
+        {
+          "text": "0.5",
+          "left": -2.40756835,
+          "right": -1.99243165,
+          "top": -1.7549999999999997,
+          "bottom": -1.9448437499999998
+        },
+        {
+          "text": "1",
+          "left": 1.1480468749999997,
+          "right": 1.2519531249999998,
+          "top": -1.7549999999999997,
+          "bottom": -1.9370312499999998
+        },
+        {
+          "text": "1",
+          "left": -5.85390625,
+          "right": -5.75,
+          "top": -0.35065104166666666,
+          "bottom": -0.5326822916666667
+        },
+        {
+          "text": "2",
+          "left": -5.860156249999999,
+          "right": -5.75,
+          "top": 0.8346354166666665,
+          "bottom": 0.6486979166666664
+        },
+        {
+          "text": "3",
+          "left": -5.865625,
+          "right": -5.75,
+          "top": 2.019921875,
+          "bottom": 1.830078125
+        },
+        {
+          "text": "P1/SOLID",
+          "left": 3.0165527250000004,
+          "right": 5.383447275,
+          "top": 1.7345312500000003,
+          "bottom": 1.4556250000000002
+        },
+        {
+          "text": "u\u00b2=\u03c3/(1-\u03c3)Divergesas\u03c3\u21921",
+          "left": 2.65703125,
+          "right": 5.74296875,
+          "top": 1.1756250000000001,
+          "bottom": 0.4654687499999999
+        },
+        {
+          "text": "FDTD/DASHED",
+          "left": 2.71708985,
+          "right": 5.6829101500000005,
+          "top": -0.2760937499999999,
+          "bottom": -0.555
+        },
+        {
+          "text": "u=2\u221a[\u03c3(1-\u03c3)]ZeroatBOTHendpoints",
+          "left": 2.203442375,
+          "right": 6.1965576250000005,
+          "top": -0.835,
+          "bottom": -1.56390625
+        }
+      ],
+      "offscreen_text": []
+    },
+    {
+      "scene": "GRLightSpeedConflict",
+      "time": 43.6846666666672,
+      "text_bounds": [
+        {
+          "text": "Onedefinition,twoincompatiblelight-speedlaws",
+          "left": -6.511111111111111,
+          "right": 3.1888888888888887,
+          "top": 3.45,
+          "bottom": 3.112838739627459
+        },
+        {
+          "text": "UNRESOLVEDEQUATIONS",
+          "left": 3.8111111111111113,
+          "right": 6.511111111111111,
+          "top": 3.34,
+          "bottom": 3.141578059560916
+        },
+        {
+          "text": "\u03c3=SPACE-energyfraction",
+          "left": -4.525585925,
+          "right": 0.02558592500000012,
+          "top": -2.105,
+          "bottom": -2.40265625
+        },
+        {
+          "text": "u=C/c\u2080",
+          "left": -5.7816162,
+          "right": -4.0183838000000005,
+          "top": 2.37734375,
+          "bottom": 2.12265625
+        },
+        {
+          "text": "0",
+          "left": -5.658984374999999,
+          "right": -5.541015625,
+          "top": -1.7549999999999997,
+          "bottom": -1.9448437499999998
+        },
+        {
+          "text": "0.5",
+          "left": -2.40756835,
+          "right": -1.99243165,
+          "top": -1.7549999999999997,
+          "bottom": -1.9448437499999998
+        },
+        {
+          "text": "1",
+          "left": 1.1480468749999997,
+          "right": 1.2519531249999998,
+          "top": -1.7549999999999997,
+          "bottom": -1.9370312499999998
+        },
+        {
+          "text": "1",
+          "left": -5.85390625,
+          "right": -5.75,
+          "top": -0.35065104166666666,
+          "bottom": -0.5326822916666667
+        },
+        {
+          "text": "2",
+          "left": -5.860156249999999,
+          "right": -5.75,
+          "top": 0.8346354166666665,
+          "bottom": 0.6486979166666664
+        },
+        {
+          "text": "3",
+          "left": -5.865625,
+          "right": -5.75,
+          "top": 2.019921875,
+          "bottom": 1.830078125
+        },
+        {
+          "text": "P1/SOLID",
+          "left": 3.0165527250000004,
+          "right": 5.383447275,
+          "top": 1.7345312500000003,
+          "bottom": 1.4556250000000002
+        },
+        {
+          "text": "u\u00b2=\u03c3/(1-\u03c3)Divergesas\u03c3\u21921",
+          "left": 2.65703125,
+          "right": 5.74296875,
+          "top": 1.1756250000000001,
+          "bottom": 0.4654687499999999
+        },
+        {
+          "text": "FDTD/DASHED",
+          "left": 2.71708985,
+          "right": 5.6829101500000005,
+          "top": -0.2760937499999999,
+          "bottom": -0.555
+        },
+        {
+          "text": "u=2\u221a[\u03c3(1-\u03c3)]ZeroatBOTHendpoints",
+          "left": 2.203442375,
+          "right": 6.1965576250000005,
+          "top": -0.835,
+          "bottom": -1.56390625
+        },
+        {
+          "text": "Equalat\u03c3=1/2;also\u03c3\u21920intheendpointlimit.Notequivalenton(0,1).",
+          "left": -5.973999025000001,
+          "right": 5.973999025000001,
+          "top": -2.484453125,
+          "bottom": -2.7555468750000003
+        }
+      ],
+      "offscreen_text": []
+    },
+    {
+      "scene": "GRFalsification",
+      "time": 20.066666666666617,
+      "text_bounds": [
+        {
+          "text": "Whatwouldrulethemechanismout?",
+          "left": -6.511111111111111,
+          "right": 2.832785388888889,
+          "top": 3.45,
+          "bottom": 3.07109375
+        },
+        {
+          "text": "OPENTESTS",
+          "left": 5.03596461111111,
+          "right": 6.511111111111111,
+          "top": 3.34,
+          "bottom": 3.15015625
+        },
+        {
+          "text": "1Define+derive",
+          "left": -5.934326175000001,
+          "right": -2.365673825,
+          "top": 1.9028906250000002,
+          "bottom": 1.627109375
+        },
+        {
+          "text": "",
+          "left": 0.0,
+          "right": 0.0,
+          "top": 0.0,
+          "bottom": 0.0
+        },
+        {
+          "text": "2Budget+losses",
+          "left": -5.9331543,
+          "right": -2.3668457000000003,
+          "top": 0.9159375000000001,
+          "bottom": 0.5940625000000002
+        },
+        {
+          "text": "",
+          "left": 0.0,
+          "right": 0.0,
+          "top": 0.0,
+          "bottom": 0.0
+        },
+        {
+          "text": "3Matchedcontrols",
+          "left": -6.0327148500000005,
+          "right": -2.26728515,
+          "top": -0.1260937499999999,
+          "bottom": -0.3839062499999999
+        },
+        {
+          "text": "",
+          "left": 0.0,
+          "right": 0.0,
+          "top": 0.0,
+          "bottom": 0.0
+        },
+        {
+          "text": "4Observableprediction",
+          "left": -6.199999999999999,
+          "right": -2.100000000000001,
+          "top": -1.1187182134293074,
+          "bottom": -1.4112817865706928
+        },
+        {
+          "text": "",
+          "left": 0.0,
+          "right": 0.0,
+          "top": 0.0,
+          "bottom": 0.0
+        },
+        {
+          "text": "FIELDMODEL",
+          "left": 0.9676757749999998,
+          "right": 3.1323242249999996,
+          "top": 0.970078125,
+          "bottom": 0.7177343749999999
+        },
+        {
+          "text": "Units\u2022action\u2022conservedcurrentStablestate,notimposedmotion",
+          "left": -1.0513427750000002,
+          "right": 5.151342775,
+          "top": 0.43773437499999995,
+          "bottom": -0.27007812500000006
+        }
+      ],
+      "offscreen_text": []
+    },
+    {
+      "scene": "GRFalsification",
+      "time": 39.866666666666966,
+      "text_bounds": [
+        {
+          "text": "Whatwouldrulethemechanismout?",
+          "left": -6.511111111111111,
+          "right": 2.832785388888889,
+          "top": 3.45,
+          "bottom": 3.07109375
+        },
+        {
+          "text": "OPENTESTS",
+          "left": 5.03596461111111,
+          "right": 6.511111111111111,
+          "top": 3.34,
+          "bottom": 3.15015625
+        },
+        {
+          "text": "1Define+derive",
+          "left": -5.934326175000001,
+          "right": -2.365673825,
+          "top": 1.9028906250000002,
+          "bottom": 1.627109375
+        },
+        {
+          "text": "",
+          "left": 0.0,
+          "right": 0.0,
+          "top": 0.0,
+          "bottom": 0.0
+        },
+        {
+          "text": "2Budget+losses",
+          "left": -5.9331543,
+          "right": -2.3668457000000003,
+          "top": 0.9159375000000001,
+          "bottom": 0.5940625000000002
+        },
+        {
+          "text": "",
+          "left": 0.0,
+          "right": 0.0,
+          "top": 0.0,
+          "bottom": 0.0
+        },
+        {
+          "text": "3Matchedcontrols",
+          "left": -6.0327148500000005,
+          "right": -2.26728515,
+          "top": -0.1260937499999999,
+          "bottom": -0.3839062499999999
+        },
+        {
+          "text": "",
+          "left": 0.0,
+          "right": 0.0,
+          "top": 0.0,
+          "bottom": 0.0
+        },
+        {
+          "text": "4Observableprediction",
+          "left": -6.199999999999999,
+          "right": -2.100000000000001,
+          "top": -1.1187182134293074,
+          "bottom": -1.4112817865706928
+        },
+        {
+          "text": "",
+          "left": 0.0,
+          "right": 0.0,
+          "top": 0.0,
+          "bottom": 0.0
+        },
+        {
+          "text": "OLDAPPROXIMATION\u2014NOTPHOTONTEST",
+          "left": -1.35,
+          "right": 5.449999999999999,
+          "top": 0.9199325531728921,
+          "bottom": 0.6746001138581921
+        },
+        {
+          "text": "E_feedback/(m\u2091c\u00b2)=2.63e-44Newdriverneedsitsownflux/lossbudget",
+          "left": -1.35,
+          "right": 5.449999999999999,
+          "top": 0.3946001138581921,
+          "bottom": -0.21993255317289234
+        }
+      ],
+      "offscreen_text": []
+    },
+    {
+      "scene": "GRFalsification",
+      "time": 58.13333333333454,
+      "text_bounds": [
+        {
+          "text": "Whatwouldrulethemechanismout?",
+          "left": -6.511111111111111,
+          "right": 2.832785388888889,
+          "top": 3.45,
+          "bottom": 3.07109375
+        },
+        {
+          "text": "OPENTESTS",
+          "left": 5.03596461111111,
+          "right": 6.511111111111111,
+          "top": 3.34,
+          "bottom": 3.15015625
+        },
+        {
+          "text": "1Define+derive",
+          "left": -5.934326175000001,
+          "right": -2.365673825,
+          "top": 1.9028906250000002,
+          "bottom": 1.627109375
+        },
+        {
+          "text": "",
+          "left": 0.0,
+          "right": 0.0,
+          "top": 0.0,
+          "bottom": 0.0
+        },
+        {
+          "text": "2Budget+losses",
+          "left": -5.9331543,
+          "right": -2.3668457000000003,
+          "top": 0.9159375000000001,
+          "bottom": 0.5940625000000002
+        },
+        {
+          "text": "",
+          "left": 0.0,
+          "right": 0.0,
+          "top": 0.0,
+          "bottom": 0.0
+        },
+        {
+          "text": "3Matchedcontrols",
+          "left": -6.0327148500000005,
+          "right": -2.26728515,
+          "top": -0.1260937499999999,
+          "bottom": -0.3839062499999999
+        },
+        {
+          "text": "",
+          "left": 0.0,
+          "right": 0.0,
+          "top": 0.0,
+          "bottom": 0.0
+        },
+        {
+          "text": "4Observableprediction",
+          "left": -6.199999999999999,
+          "right": -2.100000000000001,
+          "top": -1.1187182134293074,
+          "bottom": -1.4112817865706928
+        },
+        {
+          "text": "",
+          "left": 0.0,
+          "right": 0.0,
+          "top": 0.0,
+          "bottom": 0.0
+        },
+        {
+          "text": "MATCHEDCOMPARISONS",
+          "left": 0.1606445249999997,
+          "right": 3.939355475,
+          "top": 0.9720312499999999,
+          "bottom": 0.7196874999999998
+        },
+        {
+          "text": "Photon-driven|nophotons|QED/GRSameinputs,timinganduncertainties",
+          "left": -1.3272461000000004,
+          "right": 5.4272461,
+          "top": 0.43968749999999984,
+          "bottom": -0.27203125000000017
+        }
+      ],
+      "offscreen_text": []
+    },
+    {
+      "scene": "GRFalsification",
+      "time": 78.08333333333394,
+      "text_bounds": [
+        {
+          "text": "Whatwouldrulethemechanismout?",
+          "left": -6.511111111111111,
+          "right": 2.832785388888889,
+          "top": 3.45,
+          "bottom": 3.07109375
+        },
+        {
+          "text": "OPENTESTS",
+          "left": 5.03596461111111,
+          "right": 6.511111111111111,
+          "top": 3.34,
+          "bottom": 3.15015625
+        },
+        {
+          "text": "1Define+derive",
+          "left": -5.934326175000001,
+          "right": -2.365673825,
+          "top": 1.9028906250000002,
+          "bottom": 1.627109375
+        },
+        {
+          "text": "",
+          "left": 0.0,
+          "right": 0.0,
+          "top": 0.0,
+          "bottom": 0.0
+        },
+        {
+          "text": "2Budget+losses",
+          "left": -5.9331543,
+          "right": -2.3668457000000003,
+          "top": 0.9159375000000001,
+          "bottom": 0.5940625000000002
+        },
+        {
+          "text": "",
+          "left": 0.0,
+          "right": 0.0,
+          "top": 0.0,
+          "bottom": 0.0
+        },
+        {
+          "text": "3Matchedcontrols",
+          "left": -6.0327148500000005,
+          "right": -2.26728515,
+          "top": -0.1260937499999999,
+          "bottom": -0.3839062499999999
+        },
+        {
+          "text": "",
+          "left": 0.0,
+          "right": 0.0,
+          "top": 0.0,
+          "bottom": 0.0
+        },
+        {
+          "text": "4Observableprediction",
+          "left": -6.199999999999999,
+          "right": -2.100000000000001,
+          "top": -1.1187182134293074,
+          "bottom": -1.4112817865706928
+        },
+        {
+          "text": "",
+          "left": 0.0,
+          "right": 0.0,
+          "top": 0.0,
+          "bottom": 0.0
+        },
+        {
+          "text": "PREDECLAREREJECTION",
+          "left": 0.06616209999999967,
+          "right": 4.0338379,
+          "top": 0.9535789417636654,
+          "bottom": 0.7012351917636653
+        },
+        {
+          "text": "Magneticmoment\u2022spectrum\u2022scatteringRejectaSPECIFIEDmodelvariant",
+          "left": -1.35,
+          "right": 5.449999999999999,
+          "top": 0.42123519176366536,
+          "bottom": -0.2535789417636657
+        },
+        {
+          "text": "Nomeasuredconfirmationshownhere.Theanimationvisualizesassumptions.",
+          "left": -6.1451416,
+          "right": 6.1451416,
+          "top": -2.26484375,
+          "bottom": -2.53515625
+        }
+      ],
+      "offscreen_text": []
+    },
+    {
+      "scene": "GRClosing",
+      "time": 11.996000000000002,
+      "text_bounds": [
+        {
+          "text": "Helpmakethehypothesistestable",
+          "left": -6.511111111111111,
+          "right": 2.5451388888888897,
+          "top": 3.4499999999999997,
+          "bottom": 2.98203125
+        },
+        {
+          "text": "INVITATIONTOREVIEW",
+          "left": 3.8111111111111113,
+          "right": 6.511111111111111,
+          "top": 3.34,
+          "bottom": 3.1683836596459667
+        },
+        {
+          "text": "Quantumphysicists:critiquethemechanism.",
+          "left": -3.6787597750000005,
+          "right": 3.6787597750000005,
+          "top": 1.9917968750000001,
+          "bottom": 0.708203125
+        },
+        {
+          "text": "github.com/AStarStarship/GradientRelativity",
+          "left": -4.835546875,
+          "right": 4.835546875,
+          "top": 0.13359375,
+          "bottom": -0.23359375
+        },
+        {
+          "text": "github.com/AStarStarship/GradientRelativity/issues",
+          "left": -4.990576175000001,
+          "right": 4.990576175000001,
+          "top": -0.616328125,
+          "bottom": -0.943671875
+        },
+        {
+          "text": "OpenaGitHubissueticketQuestion+equation+reproduciblecalculation",
+          "left": -4.400561525,
+          "right": 4.400561525,
+          "top": -1.379296875,
+          "bottom": -2.120703125
+        }
+      ],
+      "offscreen_text": []
+    },
+    {
+      "scene": "GRClosing",
+      "time": 26.39599999999995,
+      "text_bounds": [
+        {
+          "text": "Helpmakethehypothesistestable",
+          "left": -6.511111111111111,
+          "right": 2.5451388888888897,
+          "top": 3.4499999999999997,
+          "bottom": 2.98203125
+        },
+        {
+          "text": "INVITATIONTOREVIEW",
+          "left": 3.8111111111111113,
+          "right": 6.511111111111111,
+          "top": 3.34,
+          "bottom": 3.1683836596459667
+        },
+        {
+          "text": "Thankyouforyourtime.",
+          "left": -3.64453125,
+          "right": 3.64453125,
+          "top": 1.6121093750000002,
+          "bottom": 1.087890625
+        },
+        {
+          "text": "github.com/AStarStarship/GradientRelativity",
+          "left": -4.835546875,
+          "right": 4.835546875,
+          "top": 0.13359375,
+          "bottom": -0.23359375
+        },
+        {
+          "text": "github.com/AStarStarship/GradientRelativity/issues",
+          "left": -4.990576175000001,
+          "right": 4.990576175000001,
+          "top": -0.616328125,
+          "bottom": -0.943671875
+        },
+        {
+          "text": "OpenaGitHubissueticketQuestion+equation+reproduciblecalculation",
+          "left": -4.400561525,
+          "right": 4.400561525,
+          "top": -1.379296875,
+          "bottom": -2.120703125
+        }
+      ],
+      "offscreen_text": []
+    }
+  ]
+}

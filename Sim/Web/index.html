@@ -1,0 +1,447 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Gradient Relativity — Planck Field Flash Player</title>
+<style>
+  :root{
+    --bg:#0a0e14; --panel:#111722; --panel2:#0d131c;
+    --ink:#e8edf4; --muted:#8b97a8; --line:#1f2937;
+    --accent:#58c4dd; --accent2:#83c167; --warn:#ffb454; --bad:#ff6b6b;
+    --mono:'JetBrains Mono','SF Mono',ui-monospace,Menlo,Consolas,monospace;
+    --sans:'Inter',system-ui,-apple-system,'Segoe UI',Roboto,sans-serif;
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0;height:100%;background:var(--bg);color:var(--ink);
+    font-family:var(--sans);}
+  body{display:flex;flex-direction:column;min-height:100vh}
+  header{
+    display:flex;align-items:baseline;gap:14px;padding:14px 20px;
+    border-bottom:1px solid var(--line);background:var(--panel);
+    flex-wrap:wrap;
+  }
+  header h1{font-size:16px;font-weight:600;margin:0;letter-spacing:.2px}
+  header .sub{color:var(--muted);font-size:12px;font-family:var(--mono)}
+  .badge{font-size:11px;font-family:var(--mono);padding:2px 8px;border-radius:20px;
+    border:1px solid var(--line);color:var(--muted)}
+  .badge.ok{color:var(--accent2);border-color:#2c4a2c}
+  .badge.info{color:var(--accent);border-color:#2c4a5a}
+  .badge.warn{color:var(--warn);border-color:#5a4a2c}
+  .wrap{flex:1;display:flex;gap:0;min-height:0}
+  .stage{flex:1;display:flex;flex-direction:column;min-width:0;background:
+    radial-gradient(1200px 600px at 50% 0%,#0e1622 0%,var(--bg) 60%)}
+  .canvas-holder{flex:1;position:relative;display:flex;align-items:center;
+    justify-content:center;padding:16px;min-height:0}
+  canvas#field{max-width:100%;max-height:100%;border:1px solid var(--line);
+    border-radius:8px;image-rendering:pixelated;
+    box-shadow:0 10px 40px rgba(0,0,0,.5)}
+  .overlay-tag{position:absolute;left:24px;top:24px;font-family:var(--mono);
+    font-size:11px;color:var(--muted);pointer-events:none;
+    text-shadow:0 1px 2px #000}
+  .controls{
+    display:flex;align-items:center;gap:12px;padding:12px 16px;
+    border-top:1px solid var(--line);background:var(--panel);flex-wrap:wrap
+  }
+  .controls button{
+    background:var(--panel2);color:var(--ink);border:1px solid var(--line);
+    border-radius:6px;padding:7px 12px;font-family:var(--mono);font-size:12px;
+    cursor:pointer;transition:.15s;min-width:44px
+  }
+  .controls button:hover{border-color:var(--accent);color:var(--accent)}
+  .controls button.active{background:var(--accent);color:#04121a;border-color:var(--accent)}
+  .ctl-group{display:flex;align-items:center;gap:8px}
+  .ctl-group label{font-size:11px;color:var(--muted);font-family:var(--mono)}
+  input[type=range]{accent-color:var(--accent);width:140px}
+  select{background:var(--panel2);color:var(--ink);border:1px solid var(--line);
+    border-radius:6px;padding:6px 8px;font-family:var(--mono);font-size:12px}
+  .scrub{flex:1;min-width:160px}
+  .tframe{font-family:var(--mono);font-size:11px;color:var(--muted);min-width:80px}
+  aside{
+    width:340px;flex-shrink:0;border-left:1px solid var(--line);
+    background:var(--panel);overflow-y:auto;padding:16px
+  }
+  @media(max-width:860px){.wrap{flex-direction:column}aside{width:100%;border-left:0;
+    border-top:1px solid var(--line)}}
+  .card{background:var(--panel2);border:1px solid var(--line);border-radius:8px;
+    padding:12px;margin-bottom:12px}
+  .card h3{margin:0 0 8px;font-size:12px;text-transform:uppercase;letter-spacing:.6px;
+    color:var(--muted);font-family:var(--mono)}
+  .verdict{display:flex;align-items:center;gap:8px;font-family:var(--mono);
+    font-size:12px;margin:4px 0}
+  .verdict .dot{width:8px;height:8px;border-radius:50%}
+  .dot.PASS{background:var(--accent2)} .dot.FAIL{background:var(--bad)}
+  .dot.INFO{background:var(--accent)}
+  .val{font-family:var(--mono);font-size:12px;color:var(--ink)}
+  .val .k{color:var(--muted)}
+  .val .n{color:var(--accent);float:right}
+  .callout{font-size:12px;line-height:1.5;color:var(--muted);margin-top:8px;
+    padding:10px;border-left:2px solid var(--warn);background:#141109;
+    border-radius:0 6px 6px 0}
+  .callout b{color:var(--warn)}
+  .legend{display:flex;gap:4px;align-items:center;font-family:var(--mono);
+    font-size:10px;color:var(--muted)}
+  .legend .bar{height:8px;flex:1;border-radius:4px;
+    background:linear-gradient(90deg,#000,#3b0f70,#b1147e,#fc9f1d,#f4f400)}
+  .chart-wrap{margin-top:8px}
+  canvas#ccurve{width:100%;height:120px;border:1px solid var(--line);border-radius:6px}
+  .muted{color:var(--muted)}
+  a{color:var(--accent);text-decoration:none}
+  .foot{padding:8px 16px;font-size:11px;color:var(--muted);font-family:var(--mono);
+    border-top:1px solid var(--line);background:var(--panel)}
+</style>
+</head>
+<body>
+<header>
+  <h1>Gradient Relativity — Planck Field</h1>
+  <span class="sub">FDTD leapfrog · C-form <span id="cform-badge">–</span></span>
+  <span class="badge" id="cfl-badge">CFL –</span>
+  <span class="badge" id="grid-badge">–</span>
+</header>
+
+<div class="wrap">
+  <div class="stage">
+    <div class="canvas-holder">
+      <canvas id="field" width="512" height="512"></canvas>
+      <div class="overlay-tag" id="ov-tag"></div>
+    </div>
+    <div class="controls">
+      <div class="ctl-group">
+        <button id="btn-play">▶ Play</button>
+        <button id="btn-step">Step</button>
+        <button id="btn-reset">Reset</button>
+      </div>
+      <div class="ctl-group scrub">
+        <label>frame</label>
+        <input type="range" id="scrub" min="0" max="0" value="0">
+        <span class="tframe" id="tframe">0 / 0</span>
+      </div>
+      <div class="ctl-group">
+        <label>speed</label>
+        <input type="range" id="speed" min="1" max="30" value="12">
+      </div>
+      <div class="ctl-group">
+        <label>map</label>
+        <select id="cmap">
+          <option value="magma">magma</option>
+          <option value="inferno">inferno</option>
+          <option value="viridis">viridis</option>
+          <option value="phase">phase (arg)</option>
+        </select>
+      </div>
+      <div class="ctl-group">
+        <button id="btn-elec" class="active">electron</button>
+        <button id="btn-rings">rings</button>
+      </div>
+    </div>
+  </div>
+
+  <aside>
+    <div class="card">
+      <h3>Validation</h3>
+      <div id="verdicts"></div>
+      <div class="callout" id="honest-note"></div>
+    </div>
+
+    <div class="card">
+      <h3>Physics budget (honest)</h3>
+      <div class="val"><span class="k">a_c (galactic)</span><span class="n" id="v-ac">–</span></div>
+      <div class="val"><span class="k">P_larmor</span><span class="n" id="v-pl">–</span></div>
+      <div class="val"><span class="k">ω₀ (Compton)</span><span class="n" id="v-w0">–</span></div>
+      <div class="val"><span class="k">x_p = a_c/ω₀²</span><span class="n" id="v-xp">–</span></div>
+      <div class="val"><span class="k">feedback ratio</span><span class="n" id="v-fr" style="color:var(--warn)">–</span></div>
+    </div>
+
+    <div class="card">
+      <h3>C(σ) parameterizations</h3>
+      <canvas id="ccurve" width="300" height="120"></canvas>
+      <div class="legend" style="margin-top:6px">
+        <span>σ=0</span><div class="bar" style="background:linear-gradient(90deg,#334,#58c4dd)"></div><span>σ=1</span>
+      </div>
+      <div class="muted" style="font-size:11px;margin-top:8px" id="ccurve-note"></div>
+    </div>
+
+    <div class="card">
+      <h3>Field scale</h3>
+      <div class="val"><span class="k">domain L</span><span class="n" id="v-L">–</span></div>
+      <div class="val"><span class="k">λ_C (reduced)</span><span class="n" id="v-lc">–</span></div>
+      <div class="val"><span class="k">C range on grid</span><span class="n" id="v-Cr">–</span></div>
+    </div>
+  </aside>
+</div>
+
+<div class="foot" id="foot">
+  bundle: <span id="foot-sha">–</span> ·
+  edit <b>Sim/simlib/*.py</b> and re-run <b>python -m simlib</b>, then refresh ·
+  <span class="muted">whirlpool = ansatz; feedback is 10⁻⁴⁴ — see honest note</span>
+</div>
+
+<script>
+"use strict";
+// ---------- colormaps (256-entry LUTs) ----------
+function buildLUT(stops){
+  const lut=new Uint8Array(256*3);
+  for(let i=0;i<256;i++){
+    const t=i/255;
+    // find segment
+    let k=0; while(k<stops.length-2 && t>stops[k+1][0]) k++;
+    const [t0,r0,g0,b0]=stops[k], [t1,r1,g1,b1]=stops[k+1];
+    const f=(t-t0)/Math.max(1e-9,(t1-t0));
+    lut[i*3]=Math.round(r0+(r1-r0)*f);
+    lut[i*3+1]=Math.round(g0+(g1-g0)*f);
+    lut[i*3+2]=Math.round(b0+(b1-b0)*f);
+  }
+  return lut;
+}
+const MAGMA=buildLUT([[0,0,0,4],[0.25,73,11,84],[0.5,173,13,114],[0.75,246,100,17],[1,252,253,191]]);
+const INFERNO=buildLUT([[0,0,0,4],[0.25,72,14,106],[0.5,198,76,57],[0.75,252,164,48],[1,252,255,164]]);
+const VIRIDIS=buildLUT([[0,68,1,84],[0.25,59,82,139],[0.5,53,151,122],[0.75,142,212,70],[1,253,231,37]]);
+const CMAPS={magma:MAGMA,inferno:INFERNO,viridis:VIRIDIS};
+
+// ---------- state ----------
+let bundle=null, frames=[], elecX=[], elecY=[], N=0, T=0;
+let frameIdx=0, playing=true, speed=12, cmap="magma";
+let showElec=true, showRings=false;
+let lastDraw=0;
+
+const cv=document.getElementById('field');
+const ctx=cv.getContext('2d');
+
+// offscreen small canvas for the field (N x N), then scaled up
+let off=null, offCtx=null, imgData=null;
+
+function fmt(x,d=2){
+  if(x==null||isNaN(x)) return '–';
+  if(Math.abs(x)>=1e5||Math.abs(x)<1e-3) return x.toExponential(d);
+  return x.toFixed(d);
+}
+
+function loadBundle(){
+  fetch('sim_bundle.json',{cache:'no-store'})
+    .then(r=>{ if(!r.ok) throw new Error(r.status); return r.json(); })
+    .then(b=>init(b))
+    .catch(e=>{
+      document.getElementById('honest-note').innerHTML =
+        '<b>No bundle found.</b> Run <code>python -m simlib</code> in Sim/ first.';
+      console.error('bundle load failed', e);
+    });
+}
+
+function init(b){
+  bundle=b; frames=b.frames; elecX=b.electron.x_m; elecY=b.electron.y_m;
+  T=frames.length;
+  // Frames are FLAT row-major arrays of N*N values. Derive N robustly.
+  N=Math.round(Math.sqrt(frames[0].length));
+  // offscreen buffer
+  off=document.createElement('canvas'); off.width=N; off.height=N;
+  offCtx=off.getContext('2d');
+  imgData=offCtx.createImageData(N,N);
+  // size main canvas to N (square), CSS scales it
+  cv.width=N; cv.height=N;
+  const scrub=document.getElementById('scrub');
+  scrub.max=T-1; scrub.value=0;
+  frameIdx=0;
+  renderAll();
+  drawField();
+}
+
+function renderAll(){
+  const meta=bundle.meta, val=bundle.validation, c=bundle.constants;
+  document.getElementById('cform-badge').textContent=meta.c_form;
+  const cb=document.getElementById('cfl-badge');
+  cb.textContent='CFL '+meta.cfl.toFixed(3);
+  cb.className='badge '+(meta.cfl<0.707?'ok':'warn');
+  document.getElementById('grid-badge').textContent=N+'² · '+T+' frames';
+
+  // verdicts
+  const vd=document.getElementById('verdicts'); vd.innerHTML='';
+  const order=[['manufactured_solution','wave check'],
+               ['complex_known_case','no fake swirl'],
+               ['feedback_budget','energy budget'],
+               ['c_form_comparison','C-form']];
+  for(const [key,label] of order){
+    const r=val[key]; if(!r) continue;
+    const row=document.createElement('div'); row.className='verdict';
+    row.innerHTML='<span class="dot '+r.verdict+'"></span><span>'+label+
+      '</span><span style="margin-left:auto;color:var(--muted)">'+r.verdict+'</span>';
+    vd.appendChild(row);
+  }
+
+  // honest note
+  const fb=val.feedback_budget;
+  document.getElementById('honest-note').innerHTML=
+    '<b>Honesty number.</b> Larmor feedback at galactic acceleration is ' +
+    '<b>'+fb.feedback_ratio.toExponential(2)+'</b> of the electron rest energy per ' +
+    'orbit. The whirlpool is an <b>ansatz</b> the sim illustrates — the galactic ' +
+    'term does NOT drive it at Compton frequency. That gap is the open problem.';
+
+  // physics budget
+  document.getElementById('v-ac').textContent=fmt(c.a_c_m_s2)+' m/s²';
+  document.getElementById('v-pl').textContent=fmt(c.P_larmor_W)+' W';
+  document.getElementById('v-w0').textContent=fmt(c.omega0_rad_s)+' rad/s';
+  document.getElementById('v-xp').textContent=fmt(c.x_p_m)+' m';
+  document.getElementById('v-fr').textContent=c.feedback_ratio.toExponential(2);
+
+  // field scale
+  document.getElementById('v-L').textContent=fmt(meta.L_m)+' m ('+
+    (meta.L_m/meta.lambda_C_m).toFixed(1)+' λ_C)';
+  document.getElementById('v-lc').textContent=fmt(meta.lambda_C_m)+' m';
+  document.getElementById('v-Cr').textContent=meta.C_range[0].toFixed(3)+' .. '+
+    meta.C_range[1].toFixed(3);
+
+  // C-form chart
+  drawCCurve(val.c_form_comparison);
+
+  // footer
+  const pr=bundle.meta;
+  document.getElementById('foot-sha').textContent=
+    (pr.sha256||'n/a')+(pr.sha256?(' ('+pr.sha256.slice(0,12)+'…)'):'');
+}
+
+function drawCCurve(cc){
+  const c=document.getElementById('ccurve');
+  const x=c.getContext('2d');
+  const W=c.width,H=c.height;
+  x.clearRect(0,0,W,H);
+  // grid
+  x.strokeStyle='#1f2937'; x.lineWidth=1;
+  for(let i=0;i<=4;i++){const y=i/4*H;x.beginPath();x.moveTo(0,y);x.lineTo(W,y);x.stroke();}
+  const sig=cc.sigma;
+  const cMax=Math.max(...cc.C_P1,...cc.C_bounded);
+  // bounded curve (accent2), P1 curve (accent, clipped to cMax)
+  function plot(arr,color){
+    x.strokeStyle=color;x.lineWidth=2;x.beginPath();
+    for(let i=0;i<sig.length;i++){
+      const px=sig[i]/(sig[sig.length-1])*W;
+      let py=H-arr[i]/cMax*(H-10);
+      py=Math.max(0,py);
+      i?x.lineTo(px,py):x.moveTo(px,py);
+    }
+    x.stroke();
+  }
+  plot(cc.C_bounded,'#83c167');
+  plot(cc.C_P1,'#58c4dd');
+  // labels
+  x.fillStyle='#83c167';x.font='10px monospace';
+  x.fillText('bounded',8,14);
+  x.fillStyle='#58c4dd';x.fillText('P1 (unbounded)',8,26);
+  document.getElementById('ccurve-note').textContent=
+    'Both give C=1 at σ=½ (equilibrium). They differ everywhere else — an unresolved ' +
+    'reparameterization (Research.md §4.4). Results must declare which form they used.';
+}
+
+// ---------- field drawing ----------
+function drawField(){
+  const lut=CMAPS[cmap]||MAGMA;
+  const ph=cmap==='phase';
+  const f=frames[frameIdx];
+  const d=imgData.data;
+  // for phase mode we need complex-ish; we only have real phi, so use
+  // phase of the field's value sign via a synthetic quadrature? No — we only
+  // store real phi. Phase mode: map value -> hue by its local gradient
+  // direction (a proxy for the wavevector angle). Simpler: skip phase, use
+  // a diverging map around the mean.
+  if(ph){
+    // diverging colormap around the field mean
+    let mn=Infinity,mx=-Infinity;
+    for(let i=0;i<f.length;i++){if(f[i]<mn)mn=f[i];if(f[i]>mx)mx=f[i];}
+    const mid=(mn+mx)/2, rng=(mx-mn)/2||1;
+    for(let i=0;i<f.length;i++){
+      const t=Math.max(-1,Math.min(1,(f[i]-mid)/rng)); // -1..1
+      const o=i*4;
+      if(t>=0){ // blue -> white
+        d[o]=255;d[o+1]=Math.round(255*(1-t));d[o+2]=Math.round(255*(1-t));
+      } else { // red
+        d[o]=Math.round(255*(1+t));d[o+1]=255;d[o+2]=255;
+      }
+      d[o+3]=255;
+    }
+  } else {
+    let mn=Infinity,mx=-Infinity;
+    for(let i=0;i<f.length;i++){if(f[i]<mn)mn=f[i];if(f[i]>mx)mx=f[i];}
+    const rng=(mx-mn)||1;
+    for(let i=0;i<f.length;i++){
+      const t=Math.max(0,Math.min(1,(f[i]-mn)/rng));
+      const li=(t*255)|0;
+      const o=i*4;
+      d[o]=lut[li*3];d[o+1]=lut[li*3+1];d[o+2]=lut[li*3+2];d[o+3]=255;
+    }
+  }
+  offCtx.putImageData(imgData,0,0);
+  ctx.imageSmoothingEnabled=false;
+  ctx.clearRect(0,0,cv.width,cv.height);
+  ctx.drawImage(off,0,0,cv.width,cv.height);
+
+  if(showElec){
+    // electron track (faint) + current position (bright)
+    if(frameIdx>0){
+      ctx.strokeStyle='rgba(94,255,255,0.25)';ctx.lineWidth=1;ctx.beginPath();
+      const start=Math.max(0,frameIdx-40);
+      for(let i=start;i<=frameIdx;i++){
+        // map physical x (m) to pixel: domain spans -L/2..L/2 over N px
+        const PXX=N/2 + (elecX[i]/bundle.meta.L_m)*N/2;
+        const PYY=N/2 - (elecY[i]/bundle.meta.L_m)*N/2;
+        i===start?ctx.moveTo(PXX,PYY):ctx.lineTo(PXX,PYY);
+      }
+      ctx.stroke();
+    }
+    const PXX=N/2 + (elecX[frameIdx]/bundle.meta.L_m)*N/2;
+    const PYY=N/2 - (elecY[frameIdx]/bundle.meta.L_m)*N/2;
+    ctx.fillStyle='#ffffff';ctx.beginPath();ctx.arc(PXX,PYY,3,0,7);ctx.fill();
+    ctx.strokeStyle='#58c4dd';ctx.lineWidth=2;ctx.beginPath();ctx.arc(PXX,PYY,5,0,7);ctx.stroke();
+  }
+  if(showRings){
+    ctx.strokeStyle='rgba(255,255,255,0.15)';ctx.lineWidth=1;
+    for(const fr of [0.25,0.5,0.75]){
+      ctx.beginPath();ctx.arc(N/2,N/2,fr*N/2,0,7);ctx.stroke();
+    }
+  }
+  // overlay tag
+  document.getElementById('ov-tag').textContent=
+    't='+ (bundle.meta.dt*frameIdx).toExponential(2)+' s   frame '+frameIdx+'/'+(T-1);
+  document.getElementById('tframe').textContent=frameIdx+' / '+(T-1);
+  document.getElementById('scrub').value=frameIdx;
+}
+
+// ---------- animation loop ----------
+function loop(ts){
+  if(playing && frames.length){
+    const interval=1000/speed;
+    if(ts-lastDraw>interval){
+      frameIdx=(frameIdx+1)%T;
+      lastDraw=ts;
+      drawField();
+    }
+  }
+  requestAnimationFrame(loop);
+}
+
+// ---------- controls ----------
+function bind(){
+  const bp=document.getElementById('btn-play');
+  bp.onclick=()=>{playing=!playing;bp.textContent=playing?'❚❚ Pause':'▶ Play';
+    bp.classList.toggle('active',playing);};
+  document.getElementById('btn-step').onclick=()=>{
+    playing=false;bp.textContent='▶ Play';frameIdx=(frameIdx+1)%T;drawField();};
+  document.getElementById('btn-reset').onclick=()=>{frameIdx=0;drawField();};
+  document.getElementById('scrub').oninput=e=>{
+    playing=false;bp.textContent='▶ Play';frameIdx=+e.target.value;drawField();};
+  document.getElementById('speed').oninput=e=>{speed=+e.target.value;};
+  document.getElementById('cmap').onchange=e=>{cmap=e.target.value;drawField();};
+  const be=document.getElementById('btn-elec');
+  be.onclick=()=>{showElec=!showElec;be.classList.toggle('active',showElec);drawField();};
+  const br=document.getElementById('btn-rings');
+  br.onclick=()=>{showRings=!showRings;br.classList.toggle('active',showRings);drawField();};
+  document.addEventListener('keydown',e=>{
+    if(e.code==='Space'){e.preventDefault();bp.click();}
+    if(e.code==='ArrowRight'){frameIdx=(frameIdx+1)%T;drawField();}
+    if(e.code==='ArrowLeft'){frameIdx=(frameIdx-1+T)%T;drawField();}
+  });
+}
+
+bind();
+loadBundle();
+requestAnimationFrame(loop);
+</script>
+</body>
+</html>
