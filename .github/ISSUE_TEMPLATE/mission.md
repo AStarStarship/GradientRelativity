@@ -1,6 +1,6 @@
 ---
 name: Mission
-about: A mission with a problem-solution analysis
+about: A mission with a problem-solution analysis.
 title: ''
 labels: ''
 assignees: ''
@@ -16,19 +16,3 @@ The solution is
 ### File Affected
 
 1. `?`
-
-## Hierarchy
-
-* #11
-
-## Tags
-
-Mission
-
-## A
-
-
-
-### Sessions
-
-* AStarCale/.github#9
